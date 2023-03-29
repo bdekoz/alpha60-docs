@@ -1,1 +1,6 @@
+title: <img src="images/identity/a60-logo-outline.svg?sanitize=true" height="287" width="301">alpha60
+logo:
+description: The alpha60 source documentation
+show_downloads: true
+google_analytics:
 theme: jekyll-theme-minimal
