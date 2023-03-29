@@ -1,0 +1,8 @@
+<map id="a60::serialize_btiha_summary" name="a60::serialize_btiha_summary">
+<area shape="rect" id="node1" title="Assumes weigh() and then summarize_swarm()" alt="" coords="5,70,136,105"/>
+<area shape="rect" id="node2" href="$namespacea60.html#a8b7adb162bb4ef4bdf937a7a75bc3e1e" title=" " alt="" coords="194,5,359,28"/>
+<area shape="rect" id="node3" href="$namespacea60.html#a4e8b0cabed112734147b499bf0cc9029" title="Conversion of resolution_mode to string." alt="" coords="227,76,326,99"/>
+<area shape="rect" id="node4" href="$namespacea60.html#a1f3d90a57e2a63d06c3c5e8efdfda9d4" title=" " alt="" coords="184,123,369,145"/>
+<area shape="rect" id="node5" href="$structa60_1_1swarm__gcache.html#a52c65b0040757a229beb63361678c73b" title="Count of total added before weighing, should match weights &#45; anomalies." alt="" coords="417,87,557,122"/>
+<area shape="rect" id="node6" href="$structa60_1_1swarm__gcache.html#af7d9f24d11c6fd83baf2f2593034a6c4" title="Insert ranked peers into ordered set. Top n will be the first n results. Input depends on peer or see..." alt="" coords="417,146,557,181"/>
+</map>

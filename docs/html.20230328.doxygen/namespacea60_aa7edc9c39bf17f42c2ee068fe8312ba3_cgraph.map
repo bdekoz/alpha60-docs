@@ -1,0 +1,11 @@
+<map id="a60::fiber_paths_from_dir" name="a60::fiber_paths_from_dir">
+<area shape="rect" id="node1" title="Create paths that map out telecom cables from individual files populating the cables toplevel directo..." alt="" coords="5,150,165,173"/>
+<area shape="rect" id="node2" href="$namespacea60.html#af45982273a7a2e61b6aaa436081238c0" title="Load JSON file to in&#45;memory DOM." alt="" coords="222,5,361,40"/>
+<area shape="rect" id="node4" href="$namespacea60_1_1carto.html#af6e00609f7cb8d99c578df7700445c2c" title="Returns minimized path, fitting points to a globe. If the minimized path is redirected,..." alt="" coords="223,64,359,99"/>
+<area shape="rect" id="node6" href="$structa60_1_1carto_1_1cartography.html#a57e14cabb4993189316e369a27752a73" title=" " alt="" coords="417,117,571,152"/>
+<area shape="rect" id="node7" href="$namespacea60_1_1constants.html#ac27c77e4606552ae5f74a1c21dd9258e" title=" " alt="" coords="213,174,369,197"/>
+<area shape="rect" id="node8" href="$namespacea60_1_1io.html#aea30b8fc474f5a7b922516dc1e199037" title="Takes a string representing a directory, returns a sorted list of contents as a std::vector&lt;string&gt;." alt="" coords="218,221,365,243"/>
+<area shape="rect" id="node9" href="$namespacea60_1_1io.html#af9ba5ecc6e668e47fb2f020216f7b611" title="Strip off path component from full&#45;qualified filename." alt="" coords="226,267,357,290"/>
+<area shape="rect" id="node3" href="$namespacea60.html#a538d43bb9bfa488a54cea929736dbe2d" title="Deserialize input file." alt="" coords="425,5,563,40"/>
+<area shape="rect" id="node5" href="$namespacea60.html#a3c32f6c147e634c4b4c383aa09007d74" title=" " alt="" coords="421,70,567,93"/>
+</map>

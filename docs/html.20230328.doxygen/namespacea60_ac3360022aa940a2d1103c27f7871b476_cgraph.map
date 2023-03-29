@@ -1,0 +1,5 @@
+<map id="a60::find_unique_durations" name="a60::find_unique_durations">
+<area shape="rect" id="node1" title="Strip out datestamp string from above, ie: week&#45;0001&#45;2017&#45;08&#45;28&#45;to&#45;2017&#45;09&#45;03 to week&#45;0001." alt="" coords="5,11,177,34"/>
+<area shape="rect" id="node2" href="$namespacea60.html#aaff232d99f4fb5c2bf9928f9001bd7d9" title="Assume by&#45;day, by&#45;week, by&#45;hour input files. Unique durations are: (datestampp == true) day&#45;0006&#45;2017..." alt="" coords="225,5,392,40"/>
+<area shape="rect" id="node3" href="$namespacea60_1_1io.html#af9ba5ecc6e668e47fb2f020216f7b611" title="Strip off path component from full&#45;qualified filename." alt="" coords="440,11,571,34"/>
+</map>

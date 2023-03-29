@@ -1,0 +1,13 @@
+<map id="a60::make_glyphs_basic" name="a60::make_glyphs_basic">
+<area shape="rect" id="node1" title="Shell for titles page." alt="" coords="5,161,160,184"/>
+<area shape="rect" id="node2" href="$namespacea60.html#a732ca2d85679838beb92881e9f39a999" title="Engage bittorrent, create session." alt="" coords="213,5,363,28"/>
+<area shape="rect" id="node3" href="$namespacea60_1_1io.html#a16f17ea9e02c1975ca17b77e46cf7629" title="Make sure a path ends in &#39;/&#39;;." alt="" coords="623,133,743,156"/>
+<area shape="rect" id="node4" href="$namespacea60_1_1io.html#a89f2bd581ec510ccc0a8cfedccff7bd0" title="Top level of directory for output files." alt="" coords="224,129,352,163"/>
+<area shape="rect" id="node6" href="$namespacea60.html#a1ae4660be19d8586055437f379fa4985" title="Configure torrent session." alt="" coords="208,188,368,211"/>
+<area shape="rect" id="node7" href="$structa60_1_1collection.html#a997d47a7fc3ffcabaeba3fd74cce0d82" title=" " alt="" coords="214,237,362,271"/>
+<area shape="rect" id="node10" href="$structa60_1_1collection.html#a7f3662085b6407ab2a8916075c984151" title=" " alt="" coords="221,323,355,358"/>
+<area shape="rect" id="node5" href="$namespacea60_1_1io.html#a6ad052ef18cfb1a1ac708f7c69c9050d" title="Assumes argument is full path, no error checking..." alt="" coords="431,154,559,189"/>
+<area shape="rect" id="node8" href="$namespacea60_1_1io.html#ac95e5271a27a23bc2336d84b3f821fa2" title="Constant filesystem and run&#45;time resources." alt="" coords="426,263,565,298"/>
+<area shape="rect" id="node9" href="$namespacea60_1_1io.html#aa5fbb8ab63397dd45c4a54c0758935ef" title="Sanity check input existence." alt="" coords="426,322,565,357"/>
+<area shape="rect" id="node11" href="$namespacea60.html#ac7eddb2e330d8983ddc852edde5335c5" title=" " alt="" coords="416,381,575,404"/>
+</map>

@@ -1,0 +1,17 @@
+<map id="a60::serialize_summary_geo_topn_json" name="a60::serialize_summary_geo_topn_json">
+<area shape="rect" id="node1" title="Get geo summary for partitions." alt="" coords="5,163,157,197"/>
+<area shape="rect" id="node2" href="$namespacea60.html#a287cf51553486f749678a37cc38eb317" title="Get geo info." alt="" coords="205,93,373,115"/>
+<area shape="rect" id="node6" href="$namespacea60_1_1geo.html#a4abe1cc8c4c5d836fa8f23910b36a360" title=" " alt="" coords="421,139,585,173"/>
+<area shape="rect" id="node14" href="$namespacea60.html#a8b7adb162bb4ef4bdf937a7a75bc3e1e" title=" " alt="" coords="207,193,372,215"/>
+<area shape="rect" id="node15" href="$structa60_1_1swarm__gcache.html#a52c65b0040757a229beb63361678c73b" title="Count of total added before weighing, should match weights &#45; anomalies." alt="" coords="219,240,359,275"/>
+<area shape="rect" id="node3" href="$namespacea60_1_1geo.html#a00bb7f340977ec5d930c92291b382901" title=" " alt="" coords="434,32,573,67"/>
+<area shape="rect" id="node4" href="$namespacea60.html#a67a216731ae229be675dbcbfa228d865" title=" " alt="" coords="436,91,571,114"/>
+<area shape="rect" id="node5" href="$namespacea60.html#a1c4e23f164dec11b9fee53e2292af224" title="Convert MaxMind GeoIP information from ISO&#45;8859&#45;1 encoding to UTF&#45;8." alt="" coords="633,91,801,114"/>
+<area shape="rect" id="node7" href="$namespacea60_1_1geo.html#a3592e801fc5730fc27bab32d194a7a5b" title="Forward declaration for function in a60&#45;json.h." alt="" coords="637,139,798,173"/>
+<area shape="rect" id="node8" href="$namespacea60.html#a538d43bb9bfa488a54cea929736dbe2d" title="Deserialize input file." alt="" coords="859,5,998,40"/>
+<area shape="rect" id="node9" href="$namespacea60_1_1io.html#a16f17ea9e02c1975ca17b77e46cf7629" title="Make sure a path ends in &#39;/&#39;;." alt="" coords="869,65,989,87"/>
+<area shape="rect" id="node10" href="$namespacea60_1_1io.html#ac95e5271a27a23bc2336d84b3f821fa2" title="Constant filesystem and run&#45;time resources." alt="" coords="859,112,998,147"/>
+<area shape="rect" id="node11" href="$namespacea60.html#a0fc88c5c87f54b303a1856bc2aa76a45" title=" " alt="" coords="853,171,1005,194"/>
+<area shape="rect" id="node12" href="$namespacea60_1_1io.html#aa5fbb8ab63397dd45c4a54c0758935ef" title="Sanity check input existence." alt="" coords="859,219,998,253"/>
+<area shape="rect" id="node13" href="$namespacea60.html#ac7eddb2e330d8983ddc852edde5335c5" title=" " alt="" coords="849,278,1008,301"/>
+</map>

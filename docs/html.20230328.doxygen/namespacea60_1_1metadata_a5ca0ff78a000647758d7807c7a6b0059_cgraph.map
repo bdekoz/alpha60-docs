@@ -1,0 +1,9 @@
+<map id="a60::metadata::augment_metadata_individual" name="a60::metadata::augment_metadata_individual">
+<area shape="rect" id="node1" title="Base for metadata visualizations, individual and media object only." alt="" coords="5,93,167,128"/>
+<area shape="rect" id="node2" href="$namespacea60.html#af45982273a7a2e61b6aaa436081238c0" title="Load JSON file to in&#45;memory DOM." alt="" coords="220,5,359,40"/>
+<area shape="rect" id="node4" href="$namespacea60_1_1metadata.html#aeba42336cc4f30ed9ee705111d3e82a9" title="Typographic defaults for text labels." alt="" coords="224,64,355,99"/>
+<area shape="rect" id="node6" href="$namespacea60_1_1metadata.html#adb36743be767a1f1a9947f5b6feff3a8" title="Convert a vector of strings to a flattened and comma&#45;space&#45;separated list of strings." alt="" coords="215,123,364,157"/>
+<area shape="rect" id="node7" href="$namespacea60_1_1metadata.html#a80da6438996a07a5fa1df5728c004b2a" title="Find name &#39;field&#39; in JSON file and return vector of values." alt="" coords="215,181,363,216"/>
+<area shape="rect" id="node3" href="$namespacea60.html#a538d43bb9bfa488a54cea929736dbe2d" title="Deserialize input file." alt="" coords="412,5,551,40"/>
+<area shape="rect" id="node5" href="$namespacea60_1_1metadata.html#abcd6d192e6ed0f853c3c6cd9bcf13cad" title=" " alt="" coords="416,64,547,99"/>
+</map>

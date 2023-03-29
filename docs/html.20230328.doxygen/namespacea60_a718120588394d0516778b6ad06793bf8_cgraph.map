@@ -1,0 +1,6 @@
+<map id="a60::survey_lost_peers" name="a60::survey_lost_peers">
+<area shape="rect" id="node1" title="See what peers have no country info or latitude/longitude." alt="" coords="5,41,153,63"/>
+<area shape="rect" id="node2" href="$namespacea60.html#ac39b0d667e2ffa7a1bf2df7cc4e5ac38" title="IFF either of the above is true." alt="" coords="201,41,349,63"/>
+<area shape="rect" id="node3" href="$namespacea60.html#a63bf2b0abf68edc3f3e74a0811fe771b" title="Error checking support. Null Island Check (aka latitude and longitude set to zero)." alt="" coords="411,5,553,40"/>
+<area shape="rect" id="node4" href="$namespacea60.html#a0ff511c579a9f94ffff788b1cd4ae864" title="Null Country Check." alt="" coords="397,64,567,99"/>
+</map>

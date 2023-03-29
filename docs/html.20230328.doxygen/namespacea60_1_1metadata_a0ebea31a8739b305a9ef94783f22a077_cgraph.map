@@ -1,0 +1,15 @@
+<map id="a60::metadata::render_ids_ages" name="a60::metadata::render_ids_ages">
+<area shape="rect" id="node1" title="Entry point specialized for age dimension for media object." alt="" coords="5,212,152,247"/>
+<area shape="rect" id="node2" href="$namespacea60_1_1metadata.html#a322c3cae56a5e97a9cb15dcc19be2911" title="Ages and ages playing composited into one ring glyph. Select, sort, and composite if necessary the va..." alt="" coords="200,267,369,301"/>
+<area shape="rect" id="node11" href="$namespacea60_1_1metadata.html#acac3003bbaeb00d1c2dbfab86874dd04" title="Base Radial Visualization." alt="" coords="211,132,358,167"/>
+<area shape="rect" id="node3" href="$namespacea60_1_1constants.html#a613cac7d85819a545849f5eefd733896" title=" " alt="" coords="417,187,552,221"/>
+<area shape="rect" id="node5" href="$namespacea60_1_1metadata.html#abcd6d192e6ed0f853c3c6cd9bcf13cad" title=" " alt="" coords="613,132,743,167"/>
+<area shape="rect" id="node6" href="$namespacea60_1_1metadata.html#aa74f3d32a4793b6323d54e93c6c911b9" title="Grows out from center &#39;as if&#39; a tree growing a tree ring. Spans unknown to [00&#45;01,..." alt="" coords="418,347,551,381"/>
+<area shape="rect" id="node7" href="$namespacea60_1_1metadata.html#ae3aa31b1fc054034f40b30f22bf0d4b8" title="Find orbit of ring, given radius, rspace, and number ring. Assume: ringsn starts with 1 for values an..." alt="" coords="611,320,745,355"/>
+<area shape="rect" id="node8" href="$namespacea60_1_1metadata.html#a5156bb42291c8eb54dc6ddef8688be1e" title="Split playing value into actor &#45;&gt; LHS of playing &quot;person&quot; role &#45;&gt; RHS of playing &quot;persona&quot; NB: Each s..." alt="" coords="417,405,552,440"/>
+<area shape="rect" id="node4" href="$namespacea60_1_1constants.html#ac27c77e4606552ae5f74a1c21dd9258e" title=" " alt="" coords="600,193,756,215"/>
+<area shape="rect" id="node9" href="$namespacea60_1_1metadata.html#acd47cfb00b07af853234227fdaa04cf9" title="Convert a comma&#45;space&#45;separated list of strings to a vector of strings." alt="" coords="610,405,746,440"/>
+<area shape="rect" id="node10" href="$namespacea60_1_1constants.html#a2fd5efb0c88809132a730787d05a080a" title=" " alt="" coords="804,411,957,434"/>
+<area shape="rect" id="node12" href="$namespacea60_1_1metadata.html#aeba42336cc4f30ed9ee705111d3e82a9" title="Typographic defaults for text labels." alt="" coords="419,5,550,40"/>
+<area shape="rect" id="node13" href="$namespacea60.html#a4e8b0cabed112734147b499bf0cc9029" title="Conversion of resolution_mode to string." alt="" coords="435,89,534,111"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="a60::geo::map_country_name_to_alpha_3_code" name="a60::geo::map_country_name_to_alpha_3_code">
+<area shape="rect" id="node1" title=" " alt="" coords="5,139,160,173"/>
+<area shape="rect" id="node2" href="$namespacea60_1_1geo.html#a3592e801fc5730fc27bab32d194a7a5b" title="Forward declaration for function in a60&#45;json.h." alt="" coords="208,139,369,173"/>
+<area shape="rect" id="node3" href="$namespacea60.html#a538d43bb9bfa488a54cea929736dbe2d" title="Deserialize input file." alt="" coords="427,5,566,40"/>
+<area shape="rect" id="node4" href="$namespacea60_1_1io.html#a16f17ea9e02c1975ca17b77e46cf7629" title="Make sure a path ends in &#39;/&#39;;." alt="" coords="437,65,557,87"/>
+<area shape="rect" id="node5" href="$namespacea60_1_1io.html#ac95e5271a27a23bc2336d84b3f821fa2" title="Constant filesystem and run&#45;time resources." alt="" coords="427,112,566,147"/>
+<area shape="rect" id="node6" href="$namespacea60.html#a0fc88c5c87f54b303a1856bc2aa76a45" title=" " alt="" coords="421,171,573,194"/>
+<area shape="rect" id="node7" href="$namespacea60_1_1io.html#aa5fbb8ab63397dd45c4a54c0758935ef" title="Sanity check input existence." alt="" coords="427,219,566,253"/>
+<area shape="rect" id="node8" href="$namespacea60.html#ac7eddb2e330d8983ddc852edde5335c5" title=" " alt="" coords="417,278,576,301"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="a60::weigh_unique_collection" name="a60::weigh_unique_collection">
+<area shape="rect" id="node1" title=" " alt="" coords="5,41,191,63"/>
+<area shape="rect" id="node2" href="$structa60_1_1swarm__gcache.html#a52c65b0040757a229beb63361678c73b" title="Count of total added before weighing, should match weights &#45; anomalies." alt="" coords="239,5,379,40"/>
+<area shape="rect" id="node3" href="$structa60_1_1swarm__gcache.html#af7d9f24d11c6fd83baf2f2593034a6c4" title="Insert ranked peers into ordered set. Top n will be the first n results. Input depends on peer or see..." alt="" coords="239,64,379,99"/>
+</map>

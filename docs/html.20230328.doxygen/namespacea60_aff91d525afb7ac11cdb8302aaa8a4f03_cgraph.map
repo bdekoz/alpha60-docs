@@ -1,0 +1,9 @@
+<map id="a60::augment_wgeo_peers_location" name="a60::augment_wgeo_peers_location">
+<area shape="rect" id="node1" title="Scaling proportional to circle area (aratio, adivisor) aratio == 1 GOT, 3 others adivisor == 4 GOT,..." alt="" coords="5,73,176,107"/>
+<area shape="rect" id="node2" href="$namespacea60.html#ac997b39099fe8c748ee393875dd23c9e" title=" " alt="" coords="224,79,403,101"/>
+<area shape="rect" id="node3" href="$namespacea60.html#a935512b7346e03fbd98295ec07511666" title=" " alt="" coords="451,5,605,28"/>
+<area shape="rect" id="node4" href="$namespacea60.html#a67a216731ae229be675dbcbfa228d865" title=" " alt="" coords="461,52,595,75"/>
+<area shape="rect" id="node6" href="$namespacea60.html#a63bf2b0abf68edc3f3e74a0811fe771b" title="Error checking support. Null Island Check (aka latitude and longitude set to zero)." alt="" coords="457,99,599,134"/>
+<area shape="rect" id="node7" href="$structa60_1_1carto_1_1cartography.html#a57e14cabb4993189316e369a27752a73" title=" " alt="" coords="451,158,605,193"/>
+<area shape="rect" id="node5" href="$namespacea60.html#a1c4e23f164dec11b9fee53e2292af224" title="Convert MaxMind GeoIP information from ISO&#45;8859&#45;1 encoding to UTF&#45;8." alt="" coords="653,52,821,75"/>
+</map>

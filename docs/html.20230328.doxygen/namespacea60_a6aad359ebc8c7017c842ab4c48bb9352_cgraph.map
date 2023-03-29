@@ -1,0 +1,9 @@
+<map id="a60::reserialize_sample_json" name="a60::reserialize_sample_json">
+<area shape="rect" id="node1" title="Write out per&#45;sample details for accumlulated meta_peers." alt="" coords="5,70,185,93"/>
+<area shape="rect" id="node2" href="$namespacea60.html#aba8b47de875bd5bebeed9c57e3b52c06" title="Serialize buffer to output file." alt="" coords="243,17,378,39"/>
+<area shape="rect" id="node3" href="$namespacea60.html#a94d004bc4c17246fd2bb76cabb121d9a" title="Per collection metadata for given duration." alt="" coords="233,64,388,99"/>
+<area shape="rect" id="node6" href="$namespacea60.html#a87cd73602b7d6cf64ef441200cfda504" title="Serialize vector of meta_peer." alt="" coords="245,123,376,157"/>
+<area shape="rect" id="node4" href="$structa60_1_1collection.html#a8ac066ef3bb824d0ecff3b1238e358e4" title=" " alt="" coords="448,5,579,40"/>
+<area shape="rect" id="node5" href="$namespacea60.html#a5491ff3ca7dc34407696caaa90828819" title="First collection serialization, common for all writing." alt="" coords="436,64,591,99"/>
+<area shape="rect" id="node7" href="$namespacea60.html#a2228baa081fe66cea91ed8032bda4732" title="Serialize meta_peer." alt="" coords="448,123,579,157"/>
+</map>

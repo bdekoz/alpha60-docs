@@ -1,0 +1,44 @@
+<map id="a60::coalesce_torrents_per_hour" name="a60::coalesce_torrents_per_hour">
+<area shape="rect" id="node1" title="In every one&#45;hour sample period, collect files and summarize to hour resolution." alt="" coords="5,676,152,711"/>
+<area shape="rect" id="node2" href="$classthread__pool.html#a7a459493866cf961a2c2e1805505afa6" title=" " alt="" coords="218,123,345,146"/>
+<area shape="rect" id="node5" href="$namespacea60.html#abb952a2d5815bf10e6562cd49541fba4" title="Inner loop for routine below, computing a per&#45;hour cache." alt="" coords="200,483,363,506"/>
+<area shape="rect" id="node32" href="$namespacea60.html#af871f1f40e1735c2deda28b42b2f9555" title="Calculate hours elapsed from origin." alt="" coords="208,537,355,572"/>
+<area shape="rect" id="node33" href="$structa60_1_1collection.html#a61604643dbeea09b4fb20d6db5658b91" title=" " alt="" coords="215,647,348,681"/>
+<area shape="rect" id="node35" href="$namespacea60_1_1constants.html#ac27c77e4606552ae5f74a1c21dd9258e" title=" " alt="" coords="643,827,799,850"/>
+<area shape="rect" id="node36" href="$namespacea60.html#a823693c573000de9c14ceef433e1f6ef" title="Assume list of date_time_stamps. Input as: 2017&#45;10&#45;15&#45;at&#45;12&#45;00. Unique date times stamps are: 2017&#45;10..." alt="" coords="209,705,354,740"/>
+<area shape="rect" id="node37" href="$namespacea60.html#ab2d91fa9f89ff63b0eecb19c7651a42a" title="Assume filenames input files. Unique date times stamps are: 2017&#45;10&#45;15&#45;at&#45;12&#45;00." alt="" coords="209,764,354,799"/>
+<area shape="rect" id="node39" href="$structa60_1_1collection.html#ab2d0c48edcab0545eeb0b6f263371022" title=" " alt="" coords="427,591,574,625"/>
+<area shape="rect" id="node40" href="$structa60_1_1collection.html#a481d8e6e9ea5f9cb136846d75b0f50c4" title=" " alt="" coords="205,873,357,908"/>
+<area shape="rect" id="node42" href="$namespacea60_1_1constants.html#a01d9786063fb572d9389b0cd207bbe53" title=" " alt="" coords="216,957,347,979"/>
+<area shape="rect" id="node3" href="$classthread__pool.html#adb81e803e844526177b0f8a72229dda2" title=" " alt="" coords="429,70,572,93"/>
+<area shape="rect" id="node4" href="$classbase__thread__pool.html#ab99cb06ba52430880d337400fedc20d1" title=" " alt="" coords="413,117,588,152"/>
+<area shape="rect" id="node6" href="$structa60_1_1collection.html#a772cab0c0123491c08a92fce4cf0eacb" title=" " alt="" coords="639,667,804,701"/>
+<area shape="rect" id="node9" href="$structa60_1_1collection.html#a6c09e15effe8e57d54949bbfd8fb9db0" title=" " alt="" coords="427,176,575,211"/>
+<area shape="rect" id="node18" href="$namespacea60.html#a481196ce0dd2fed071183fa6e47ecd70" title="Write out meta_peers for a specific ID at SUFFIX." alt="" coords="411,291,591,314"/>
+<area shape="rect" id="node25" href="$namespacea60.html#a96be6f3a12e16a84ef5b465832f1657c" title="Accumulate peers all files in all subdirectories of dir matching dirm. Where all files matching filem..." alt="" coords="431,483,570,506"/>
+<area shape="rect" id="node7" href="$namespacea60_1_1io.html#a16f17ea9e02c1975ca17b77e46cf7629" title="Make sure a path ends in &#39;/&#39;;." alt="" coords="869,698,989,721"/>
+<area shape="rect" id="node8" href="$namespacea60_1_1io.html#ac95e5271a27a23bc2336d84b3f821fa2" title="Constant filesystem and run&#45;time resources." alt="" coords="860,759,999,793"/>
+<area shape="rect" id="node10" href="$namespacea60.html#a24d75332c6079b3a73c8c69498455c55" title="Try again to get geoip information for peers that are returning (0,0)." alt="" coords="647,126,795,149"/>
+<area shape="rect" id="node17" href="$namespacea60.html#a718120588394d0516778b6ad06793bf8" title="See what peers have no country info or latitude/longitude." alt="" coords="647,74,795,97"/>
+<area shape="rect" id="node11" href="$namespacea60.html#ac39b0d667e2ffa7a1bf2df7cc4e5ac38" title="IFF either of the above is true." alt="" coords="855,70,1003,93"/>
+<area shape="rect" id="node14" href="$namespacea60.html#ad300edc3a7396b9f52a64f37e9443891" title="No GeoIP." alt="" coords="858,177,1001,199"/>
+<area shape="rect" id="node15" href="$structa60_1_1geo_1_1map__base.html#a9215731f10e2fa8488b0e081c2a5cef4" title=" " alt="" coords="861,117,997,152"/>
+<area shape="rect" id="node12" href="$namespacea60.html#a63bf2b0abf68edc3f3e74a0811fe771b" title="Error checking support. Null Island Check (aka latitude and longitude set to zero)." alt="" coords="1068,64,1211,99"/>
+<area shape="rect" id="node13" href="$namespacea60.html#a0ff511c579a9f94ffff788b1cd4ae864" title="Null Country Check." alt="" coords="1055,5,1224,40"/>
+<area shape="rect" id="node16" href="$namespacea60_1_1io.html#aa5fbb8ab63397dd45c4a54c0758935ef" title="Sanity check input existence." alt="" coords="1070,123,1209,157"/>
+<area shape="rect" id="node19" href="$namespacea60.html#aba8b47de875bd5bebeed9c57e3b52c06" title="Serialize buffer to output file." alt="" coords="654,206,789,229"/>
+<area shape="rect" id="node20" href="$namespacea60.html#a94d004bc4c17246fd2bb76cabb121d9a" title="Per collection metadata for given duration." alt="" coords="644,253,799,288"/>
+<area shape="rect" id="node23" href="$namespacea60.html#a87cd73602b7d6cf64ef441200cfda504" title="Serialize vector of meta_peer." alt="" coords="656,312,787,347"/>
+<area shape="rect" id="node21" href="$structa60_1_1collection.html#a8ac066ef3bb824d0ecff3b1238e358e4" title=" " alt="" coords="864,224,995,259"/>
+<area shape="rect" id="node22" href="$namespacea60.html#a5491ff3ca7dc34407696caaa90828819" title="First collection serialization, common for all writing." alt="" coords="852,283,1007,317"/>
+<area shape="rect" id="node24" href="$namespacea60.html#a2228baa081fe66cea91ed8032bda4732" title="Serialize meta_peer." alt="" coords="864,341,995,376"/>
+<area shape="rect" id="node26" href="$namespacea60.html#af45982273a7a2e61b6aaa436081238c0" title="Load JSON file to in&#45;memory DOM." alt="" coords="652,371,791,405"/>
+<area shape="rect" id="node28" href="$namespacea60.html#aa900ae641408375a5d008580bab781df" title="Input as: /home/bkoz/src/alpha60&#45;data/game&#45;of&#45;thrones&#45;703/2017&#45;07&#45;31&#45;at&#45;22&#45;30 Output as: 2017." alt="" coords="649,430,793,453"/>
+<area shape="rect" id="node29" href="$namespacea60_1_1io.html#aea30b8fc474f5a7b922516dc1e199037" title="Takes a string representing a directory, returns a sorted list of contents as a std::vector&lt;string&gt;." alt="" coords="648,537,795,559"/>
+<area shape="rect" id="node30" href="$namespacea60_1_1io.html#afbc9bd4e46187119419128390e16a033" title="Takes a string representing a directory, returns a list of contents as a std::vector&lt;string&gt;." alt="" coords="650,608,793,643"/>
+<area shape="rect" id="node31" href="$namespacea60.html#a6ce8704ec3c4d5e258d062283dd40efb" title="Search DOM for meta_peer(s)." alt="" coords="653,477,790,512"/>
+<area shape="rect" id="node27" href="$namespacea60.html#a538d43bb9bfa488a54cea929736dbe2d" title="Deserialize input file." alt="" coords="860,400,999,435"/>
+<area shape="rect" id="node34" href="$structa60_1_1collection.html#abc4d01b1b17d4622939cb6c5c0f9b38b" title=" " alt="" coords="423,707,578,741"/>
+<area shape="rect" id="node38" href="$namespacea60_1_1io.html#af9ba5ecc6e668e47fb2f020216f7b611" title="Strip off path component from full&#45;qualified filename." alt="" coords="435,770,566,793"/>
+<area shape="rect" id="node41" href="$namespacea60.html#ac7eddb2e330d8983ddc852edde5335c5" title=" " alt="" coords="421,879,580,902"/>
+</map>

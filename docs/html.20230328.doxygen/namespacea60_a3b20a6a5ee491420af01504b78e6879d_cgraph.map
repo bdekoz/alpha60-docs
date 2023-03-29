@@ -1,0 +1,68 @@
+<map id="a60::augment_weighed_by_partition" name="a60::augment_weighed_by_partition">
+<area shape="rect" id="node1" title="Augment peers/seeds for each partition in the torrent collection. NB: Assumes 1x cartography." alt="" coords="5,775,157,810"/>
+<area shape="rect" id="node2" href="$namespacea60.html#a4d59d72e925afca276861a816db62b31" title=" " alt="" coords="206,279,365,301"/>
+<area shape="rect" id="node12" href="$namespacea60.html#a4e8b0cabed112734147b499bf0cc9029" title="Conversion of resolution_mode to string." alt="" coords="1367,625,1465,648"/>
+<area shape="rect" id="node35" href="$namespacea60.html#a75f5d9553ad7cfab9f6af56253bc746d" title="Sum over vector glyphs, return as new summary glyph." alt="" coords="1135,600,1249,623"/>
+<area shape="rect" id="node36" href="$namespacea60_1_1carto.html#af59ef7858ef576e7f17b781f38436f28" title=" " alt="" coords="875,375,1037,397"/>
+<area shape="rect" id="node43" href="$structa60_1_1collection.html#af73cc1411b568c10442a9999f52531b4" title=" " alt="" coords="859,551,1053,573"/>
+<area shape="rect" id="node44" href="$namespacea60.html#a93afe633a2da7041b3d7ac7ba8da41a4" title="Expensive. Should this be part of a weighed collection?" alt="" coords="654,1127,775,1149"/>
+<area shape="rect" id="node56" href="$namespacea60.html#a2b3725c71fd92a6b687fcad1cc804d5e" title=" " alt="" coords="413,958,572,993"/>
+<area shape="rect" id="node61" href="$namespacea60_1_1constants.html#a726e9dad9aa525169291d7818c5040b9" title=" " alt="" coords="208,857,363,880"/>
+<area shape="rect" id="node62" href="$namespacea60_1_1constants.html#a761fb0abefdcf6d4939b8d2fa66ff3f5" title=" " alt="" coords="222,905,349,939"/>
+<area shape="rect" id="node63" href="$structa60_1_1swarm__gcache.html#a907ae4206cf78357c69df4eab6bf1c41" title="Return a copy of the current cached collection, but only specific parts of it as determined by resolu..." alt="" coords="205,747,365,782"/>
+<area shape="rect" id="node65" href="$namespacea60_1_1constants.html#a4eca9d522711df25806d6dd1ff38e904" title=" " alt="" coords="419,857,566,880"/>
+<area shape="rect" id="node66" href="$structa60_1_1swarm__gcache.html#a9db2cb6e5bf6d1200cd8d389a398e252" title=" " alt="" coords="215,1067,355,1102"/>
+<area shape="rect" id="node3" href="$namespacea60.html#acd479a76716d249f242bc73ffb62683d" title=" " alt="" coords="413,230,572,265"/>
+<area shape="rect" id="node31" href="$namespacea60.html#a0c1fe75ec2f608f892a4b3ff58b83d1f" title="Make weighed title." alt="" coords="417,431,569,466"/>
+<area shape="rect" id="node4" href="$namespacea60.html#afd267ab94266951ec08784e178349e3c" title="Common parts of weighed collections." alt="" coords="649,1080,781,1103"/>
+<area shape="rect" id="node16" href="$namespacea60.html#ad1228ffd0fdb48bdb299b16f95e44fc3" title="Text layer overlay." alt="" coords="620,111,809,133"/>
+<area shape="rect" id="node27" href="$namespacea60.html#a56fa4f1fa5904c6215b0a9ad7988d569" title=" " alt="" coords="874,163,1038,198"/>
+<area shape="rect" id="node5" href="$namespacea60.html#a578d5079a62c97b1fb3a1693a82d7430" title="Base name for output for non&#45;map, data/info." alt="" coords="859,1249,1053,1272"/>
+<area shape="rect" id="node6" href="$structa60_1_1collection.html#a80993af9aec8238db8e44da1e9a3c994" title=" " alt="" coords="1123,1221,1261,1255"/>
+<area shape="rect" id="node11" href="$namespacea60.html#af7680b43cbe9dfe398fb13de46e09895" title="Base name for output with maps." alt="" coords="857,1151,1055,1173"/>
+<area shape="rect" id="node13" href="$namespacea60.html#a1bf91ba66297e089d99c49d6a376c0ad" title="NEW STYLE First composite with map, black on white." alt="" coords="885,1057,1027,1080"/>
+<area shape="rect" id="node15" href="$namespacea60.html#af951ad59a8649d55d5075079447bf0e7" title="First composite with map, white on black." alt="" coords="863,1104,1049,1127"/>
+<area shape="rect" id="node7" href="$structa60_1_1collection.html#a25b35cf4ac39da89d868fe2cf41b5acd" title=" " alt="" coords="1329,1249,1503,1272"/>
+<area shape="rect" id="node8" href="$namespacea60.html#ac7eddb2e330d8983ddc852edde5335c5" title=" " alt="" coords="1337,1203,1495,1225"/>
+<area shape="rect" id="node9" href="$namespacea60.html#a11d9ffc210e8dca8410e7a5ad62deabc" title=" " alt="" coords="1341,1141,1491,1175"/>
+<area shape="rect" id="node10" href="$namespacea60.html#a751f954fe64233f1dc6517220e4b5692" title=" " alt="" coords="1563,1147,1706,1169"/>
+<area shape="rect" id="node14" href="$namespacea60.html#a63203aef78ad674129103340323d3b63" title="First layer." alt="" coords="1111,1021,1273,1044"/>
+<area shape="rect" id="node17" href="$namespacea60.html#ab4006d7794d9932d29555a8c2250d6f7" title=" " alt="" coords="888,46,1024,81"/>
+<area shape="rect" id="node24" href="$namespacea60.html#a6070ca9b0aaa2e721d0feacd175f429c" title="Parameterize scaling normalizes on range (nfloor, nceil). nfloor == 2, 48 nceil == 396,..." alt="" coords="871,105,1041,139"/>
+<area shape="rect" id="node18" href="$namespacea60.html#ac997b39099fe8c748ee393875dd23c9e" title=" " alt="" coords="1103,56,1281,79"/>
+<area shape="rect" id="node19" href="$namespacea60.html#a935512b7346e03fbd98295ec07511666" title=" " alt="" coords="1339,5,1493,28"/>
+<area shape="rect" id="node20" href="$namespacea60.html#a67a216731ae229be675dbcbfa228d865" title=" " alt="" coords="1349,52,1483,75"/>
+<area shape="rect" id="node22" href="$namespacea60.html#a63bf2b0abf68edc3f3e74a0811fe771b" title="Error checking support. Null Island Check (aka latitude and longitude set to zero)." alt="" coords="1345,99,1487,134"/>
+<area shape="rect" id="node23" href="$structa60_1_1carto_1_1cartography.html#a57e14cabb4993189316e369a27752a73" title=" " alt="" coords="1339,158,1493,193"/>
+<area shape="rect" id="node21" href="$namespacea60.html#a1c4e23f164dec11b9fee53e2292af224" title="Convert MaxMind GeoIP information from ISO&#45;8859&#45;1 encoding to UTF&#45;8." alt="" coords="1551,52,1719,75"/>
+<area shape="rect" id="node25" href="$namespacea60.html#a3ea049ae7ac9af3ba2edcc7f79d62fde" title="Get min, max of weight in weighed peers." alt="" coords="1117,111,1267,133"/>
+<area shape="rect" id="node26" href="$namespacea60.html#a0d53d95ed1faf99432c1eaaa0d238732" title="Normalize value from (min, max) on (nfloor, nceil)" alt="" coords="1111,433,1273,456"/>
+<area shape="rect" id="node28" href="$namespacea60.html#a1594609e9578c9bedb5751e6b0674c28" title=" " alt="" coords="1111,213,1273,236"/>
+<area shape="rect" id="node30" href="$namespacea60.html#a1e6677c479d89336c9f30a6eae2ff1d8" title=" " alt="" coords="1107,167,1277,189"/>
+<area shape="rect" id="node29" href="$namespacea60_1_1geo.html#ac883e224021a4d5d0ac4c2d307f4808a" title="Error checking for common anomalies." alt="" coords="1349,217,1483,251"/>
+<area shape="rect" id="node32" href="$namespacea60.html#a6988d87e92c20662cfa1e19ad5f4da6f" title="Whole earth, 1x, summary style (classic)" alt="" coords="635,267,794,302"/>
+<area shape="rect" id="node39" href="$namespacea60.html#a3cfdea4dd7a458ed4e7905deee906a99" title="v3 by day/week/hour" alt="" coords="644,377,785,411"/>
+<area shape="rect" id="node42" href="$namespacea60.html#a6c3e0c242287f663d7e80ee91e094e07" title=" " alt="" coords="649,486,780,521"/>
+<area shape="rect" id="node55" href="$namespacea60.html#af9e02e1293a4eadf10ef7ca9f3979c74" title="Eraser." alt="" coords="871,649,1041,672"/>
+<area shape="rect" id="node33" href="$namespacea60.html#ad8f50fdaa7f0fdee7309f430e72ce72e" title="Swarm_mode dominates." alt="" coords="865,328,1047,351"/>
+<area shape="rect" id="node37" href="$structa60_1_1collection.html#a4b5f4e6148e18b08ccc033e200327cdf" title="Display/output name for torrent collection, including partition, episode/multiepisode,..." alt="" coords="883,222,1029,257"/>
+<area shape="rect" id="node38" href="$namespacea60.html#a9d17d06e9d4dfbebc3b6541240b5a6f6" title=" " alt="" coords="869,281,1043,304"/>
+<area shape="rect" id="node34" href="$namespacea60.html#ac2702e5ee0d3e84919043e65e486f8cc" title="Swarm_mode dominates." alt="" coords="1111,327,1273,349"/>
+<area shape="rect" id="node40" href="$namespacea60.html#a9a4d29d7f3a95a87dd84b13ef03eba4d" title="Marian Bantje conversation picks up steam here. Compact stacked layout with torrent name vertical,..." alt="" coords="885,422,1027,457"/>
+<area shape="rect" id="node41" href="$namespacea60.html#aa101f579d83d22aa64d69dcbd54789c3" title=" " alt="" coords="1121,374,1263,409"/>
+<area shape="rect" id="node45" href="$namespacea60.html#ae9dd8f5f0bd8cfc07cfc19f957cf2c95" title="Shell for titles page." alt="" coords="879,1380,1033,1403"/>
+<area shape="rect" id="node46" href="$namespacea60.html#a732ca2d85679838beb92881e9f39a999" title="Engage bittorrent, create session." alt="" coords="1117,1280,1267,1303"/>
+<area shape="rect" id="node47" href="$namespacea60_1_1io.html#a16f17ea9e02c1975ca17b77e46cf7629" title="Make sure a path ends in &#39;/&#39;;." alt="" coords="1575,1524,1695,1547"/>
+<area shape="rect" id="node48" href="$namespacea60_1_1io.html#a89f2bd581ec510ccc0a8cfedccff7bd0" title="Top level of directory for output files." alt="" coords="1128,1491,1256,1526"/>
+<area shape="rect" id="node50" href="$namespacea60.html#a1ae4660be19d8586055437f379fa4985" title="Configure torrent session." alt="" coords="1112,1327,1272,1349"/>
+<area shape="rect" id="node51" href="$structa60_1_1collection.html#a997d47a7fc3ffcabaeba3fd74cce0d82" title=" " alt="" coords="1118,1433,1266,1467"/>
+<area shape="rect" id="node54" href="$structa60_1_1collection.html#a7f3662085b6407ab2a8916075c984151" title=" " alt="" coords="1125,1374,1259,1409"/>
+<area shape="rect" id="node49" href="$namespacea60_1_1io.html#a6ad052ef18cfb1a1ac708f7c69c9050d" title="Assumes argument is full path, no error checking..." alt="" coords="1352,1491,1480,1526"/>
+<area shape="rect" id="node52" href="$namespacea60_1_1io.html#ac95e5271a27a23bc2336d84b3f821fa2" title="Constant filesystem and run&#45;time resources." alt="" coords="1347,1433,1485,1467"/>
+<area shape="rect" id="node53" href="$namespacea60_1_1io.html#aa5fbb8ab63397dd45c4a54c0758935ef" title="Sanity check input existence." alt="" coords="1347,1374,1485,1409"/>
+<area shape="rect" id="node57" href="$namespacea60.html#a892e88cdb0f518eb083be90e21b4b8af" title=" " alt="" coords="625,893,804,927"/>
+<area shape="rect" id="node58" href="$namespacea60.html#a04a926d3b0ca9d55ac2fd8b272c65ac5" title="For ovoid representation." alt="" coords="880,998,1032,1033"/>
+<area shape="rect" id="node59" href="$structa60_1_1glyph.html#ab2b6d99fc50ac7b0a05644091be9738b" title=" " alt="" coords="1133,848,1251,871"/>
+<area shape="rect" id="node60" href="$namespacea60.html#a44aac8d8dd1c56a7539473d12b2a4f9a" title="Weigh a vector of glyphs via the number of current peers." alt="" coords="865,799,1047,821"/>
+<area shape="rect" id="node64" href="$structa60_1_1collection.html#ac65dd0f92ebbcd78b277e48903a2f2b7" title="Adjust internal member data (members) to operate on a subset of the total collection determined by @r..." alt="" coords="413,798,572,833"/>
+</map>

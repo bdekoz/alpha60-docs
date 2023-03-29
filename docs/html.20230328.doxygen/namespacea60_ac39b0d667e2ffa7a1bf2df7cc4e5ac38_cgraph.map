@@ -1,0 +1,5 @@
+<map id="a60::is_meta_peer_lost" name="a60::is_meta_peer_lost">
+<area shape="rect" id="node1" title="IFF either of the above is true." alt="" coords="5,41,153,63"/>
+<area shape="rect" id="node2" href="$namespacea60.html#a63bf2b0abf68edc3f3e74a0811fe771b" title="Error checking support. Null Island Check (aka latitude and longitude set to zero)." alt="" coords="215,5,357,40"/>
+<area shape="rect" id="node3" href="$namespacea60.html#a0ff511c579a9f94ffff788b1cd4ae864" title="Null Country Check." alt="" coords="201,64,371,99"/>
+</map>

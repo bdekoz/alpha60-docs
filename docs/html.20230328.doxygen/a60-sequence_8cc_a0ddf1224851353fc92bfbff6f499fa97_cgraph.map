@@ -1,0 +1,12 @@
+<map id="main" name="main">
+<area shape="rect" id="node1" title=" " alt="" coords="5,187,55,209"/>
+<area shape="rect" id="node2" href="$a60-sequence_8cc.html#a13b6f038d75eea1a600a41e88aee1707" title=" " alt="" coords="103,75,301,97"/>
+<area shape="rect" id="node5" href="$namespacea60_1_1io.html#a89f2bd581ec510ccc0a8cfedccff7bd0" title="Top level of directory for output files." alt="" coords="138,122,266,157"/>
+<area shape="rect" id="node8" href="$namespacea60_1_1io.html#ad8339b50abcf6975587ba229c04066e7" title="Check directory exists, else make it." alt="" coords="133,181,271,215"/>
+<area shape="rect" id="node9" href="$namespacea60.html#a9f2c8dc1d45c663c1017a1b7b651588d" title="ISO date time stamp as default." alt="" coords="139,263,265,298"/>
+<area shape="rect" id="node10" href="$a60-sequence_8cc.html#a8a7417c008c049c7237ed639fba10223" title=" " alt="" coords="174,323,230,345"/>
+<area shape="rect" id="node3" href="$namespacea60_1_1io.html#aea30b8fc474f5a7b922516dc1e199037" title="Takes a string representing a directory, returns a sorted list of contents as a std::vector&lt;string&gt;." alt="" coords="349,5,496,28"/>
+<area shape="rect" id="node4" href="$namespacea60.html#a4e8b0cabed112734147b499bf0cc9029" title="Conversion of resolution_mode to string." alt="" coords="373,76,472,99"/>
+<area shape="rect" id="node6" href="$namespacea60_1_1io.html#a16f17ea9e02c1975ca17b77e46cf7629" title="Make sure a path ends in &#39;/&#39;;." alt="" coords="544,155,664,177"/>
+<area shape="rect" id="node7" href="$namespacea60_1_1io.html#a6ad052ef18cfb1a1ac708f7c69c9050d" title="Assumes argument is full path, no error checking..." alt="" coords="359,175,487,210"/>
+</map>

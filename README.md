@@ -1,2 +1,3 @@
 # alpha60-docs
-documentation for alpha60
+
+Documentation for alpha60.

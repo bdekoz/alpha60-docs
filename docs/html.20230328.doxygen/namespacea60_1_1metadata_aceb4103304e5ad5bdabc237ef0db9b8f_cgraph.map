@@ -1,0 +1,10 @@
+<map id="a60::metadata::cache_metadata" name="a60::metadata::cache_metadata">
+<area shape="rect" id="node1" title="Find data files in idir and return a cached (id, count) for each dimension. Returns: Vector with cumu..." alt="" coords="5,64,151,99"/>
+<area shape="rect" id="node2" href="$namespacea60_1_1metadata.html#a0e500e6b24fc0c34c086dbbef210bfbb" title=" " alt="" coords="199,64,341,99"/>
+<area shape="rect" id="node3" href="$namespacea60.html#af45982273a7a2e61b6aaa436081238c0" title="Load JSON file to in&#45;memory DOM." alt="" coords="398,5,537,40"/>
+<area shape="rect" id="node5" href="$namespacea60_1_1metadata.html#a90edc2a49e803d1acc1c9c44c8c7cb46" title="From multiset of strings to ordered elements of id (aka count, identifier)." alt="" coords="389,64,545,99"/>
+<area shape="rect" id="node6" href="$namespacea60_1_1metadata.html#ad5a0a0992f537497235f04e35bea124b" title="Find the values from all matching fields containing agg." alt="" coords="393,123,541,157"/>
+<area shape="rect" id="node4" href="$namespacea60.html#a538d43bb9bfa488a54cea929736dbe2d" title="Deserialize input file." alt="" coords="598,5,737,40"/>
+<area shape="rect" id="node7" href="$namespacea60.html#a4e8b0cabed112734147b499bf0cc9029" title="Conversion of resolution_mode to string." alt="" coords="618,109,717,131"/>
+<area shape="rect" id="node8" href="$namespacea60_1_1metadata.html#a80da6438996a07a5fa1df5728c004b2a" title="Find name &#39;field&#39; in JSON file and return vector of values." alt="" coords="593,156,741,191"/>
+</map>

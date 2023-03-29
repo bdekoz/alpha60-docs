@@ -1,0 +1,8 @@
+<map id="a60::swarm::detail_meta_peer_anomalies" name="a60::swarm::detail_meta_peer_anomalies">
+<area shape="rect" id="node1" title="Anomaly detection and reporting. Argument peers is either vmetapeers or ummetapeers." alt="" coords="5,64,152,99"/>
+<area shape="rect" id="node2" href="$namespacea60_1_1io.html#a89f2bd581ec510ccc0a8cfedccff7bd0" title="Top level of directory for output files." alt="" coords="221,5,349,40"/>
+<area shape="rect" id="node5" href="$namespacea60.html#a63bf2b0abf68edc3f3e74a0811fe771b" title="Error checking support. Null Island Check (aka latitude and longitude set to zero)." alt="" coords="213,64,356,99"/>
+<area shape="rect" id="node6" href="$namespacea60.html#a0ff511c579a9f94ffff788b1cd4ae864" title="Null Country Check." alt="" coords="200,123,369,157"/>
+<area shape="rect" id="node3" href="$namespacea60_1_1io.html#a16f17ea9e02c1975ca17b77e46cf7629" title="Make sure a path ends in &#39;/&#39;;." alt="" coords="593,13,713,35"/>
+<area shape="rect" id="node4" href="$namespacea60_1_1io.html#a6ad052ef18cfb1a1ac708f7c69c9050d" title="Assumes argument is full path, no error checking..." alt="" coords="417,33,545,68"/>
+</map>

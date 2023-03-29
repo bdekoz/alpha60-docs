@@ -1,0 +1,11 @@
+<map id="a60::augment_carto_starlink_gateways" name="a60::augment_carto_starlink_gateways">
+<area shape="rect" id="node1" title="Augment Starlink ground gateways object version." alt="" coords="5,59,139,93"/>
+<area shape="rect" id="node2" href="$namespacea60_1_1io.html#ac95e5271a27a23bc2336d84b3f821fa2" title="Constant filesystem and run&#45;time resources." alt="" coords="192,29,331,64"/>
+<area shape="rect" id="node3" href="$namespacea60.html#a5d00f2b761b78b232d5b3494d85ae4a9" title="Create triangles at starlink gateways." alt="" coords="187,88,336,123"/>
+<area shape="rect" id="node4" href="$namespacea60.html#af45982273a7a2e61b6aaa436081238c0" title="Load JSON file to in&#45;memory DOM." alt="" coords="393,5,532,40"/>
+<area shape="rect" id="node6" href="$namespacea60_1_1constants.html#ac27c77e4606552ae5f74a1c21dd9258e" title=" " alt="" coords="589,66,745,89"/>
+<area shape="rect" id="node7" href="$namespacea60.html#a3fdf876ab1d06c5cfd12a9018c231dd8" title=" " alt="" coords="384,115,541,149"/>
+<area shape="rect" id="node9" href="$namespacea60_1_1constants.html#a01d9786063fb572d9389b0cd207bbe53" title=" " alt="" coords="397,198,528,221"/>
+<area shape="rect" id="node5" href="$namespacea60.html#a538d43bb9bfa488a54cea929736dbe2d" title="Deserialize input file." alt="" coords="598,5,737,40"/>
+<area shape="rect" id="node8" href="$structa60_1_1carto_1_1cartography.html#a57e14cabb4993189316e369a27752a73" title=" " alt="" coords="591,115,744,149"/>
+</map>

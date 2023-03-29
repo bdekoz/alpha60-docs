@@ -1,0 +1,7 @@
+<map id="a60::sunique_peers" name="a60::sunique_peers">
+<area shape="rect" id="node1" title=" " alt="" coords="5,65,136,87"/>
+<area shape="rect" id="node2" href="$namespacea60.html#af45982273a7a2e61b6aaa436081238c0" title="Load JSON file to in&#45;memory DOM." alt="" coords="188,5,327,40"/>
+<area shape="rect" id="node4" href="$namespacea60_1_1io.html#aea30b8fc474f5a7b922516dc1e199037" title="Takes a string representing a directory, returns a sorted list of contents as a std::vector&lt;string&gt;." alt="" coords="184,65,331,87"/>
+<area shape="rect" id="node5" href="$namespacea60.html#a6ce8704ec3c4d5e258d062283dd40efb" title="Search DOM for meta_peer(s)." alt="" coords="189,112,326,147"/>
+<area shape="rect" id="node3" href="$namespacea60.html#a538d43bb9bfa488a54cea929736dbe2d" title="Deserialize input file." alt="" coords="379,5,517,40"/>
+</map>

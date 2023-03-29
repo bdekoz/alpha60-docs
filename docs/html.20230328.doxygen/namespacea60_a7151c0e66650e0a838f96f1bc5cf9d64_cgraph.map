@@ -1,0 +1,10 @@
+<map id="a60::augment_carto_internet_exchanges" name="a60::augment_carto_internet_exchanges">
+<area shape="rect" id="node1" title="Augment Internet Exchanges object version." alt="" coords="5,35,140,69"/>
+<area shape="rect" id="node2" href="$namespacea60_1_1io.html#ac95e5271a27a23bc2336d84b3f821fa2" title="Constant filesystem and run&#45;time resources." alt="" coords="198,5,337,40"/>
+<area shape="rect" id="node3" href="$namespacea60.html#a5c255db0f946c551b27e986732315040" title="Create x or cross marks at internet exchanges (ix)" alt="" coords="188,64,347,99"/>
+<area shape="rect" id="node4" href="$namespacea60.html#af45982273a7a2e61b6aaa436081238c0" title="Load JSON file to in&#45;memory DOM." alt="" coords="404,9,543,44"/>
+<area shape="rect" id="node6" href="$namespacea60_1_1constants.html#ac27c77e4606552ae5f74a1c21dd9258e" title=" " alt="" coords="600,70,756,93"/>
+<area shape="rect" id="node7" href="$namespacea60.html#a3fdf876ab1d06c5cfd12a9018c231dd8" title=" " alt="" coords="395,119,552,153"/>
+<area shape="rect" id="node5" href="$namespacea60.html#a538d43bb9bfa488a54cea929736dbe2d" title="Deserialize input file." alt="" coords="609,9,747,44"/>
+<area shape="rect" id="node8" href="$structa60_1_1carto_1_1cartography.html#a57e14cabb4993189316e369a27752a73" title=" " alt="" coords="601,119,755,153"/>
+</map>

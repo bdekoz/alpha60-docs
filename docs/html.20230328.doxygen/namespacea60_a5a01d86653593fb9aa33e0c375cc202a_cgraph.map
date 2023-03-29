@@ -1,0 +1,4 @@
+<map id="a60::survey_null_island_peers" name="a60::survey_null_island_peers">
+<area shape="rect" id="node1" title="Survey the landscape. See what peers are stranded at (lat, long) == (0,0)." alt="" coords="5,5,156,40"/>
+<area shape="rect" id="node2" href="$namespacea60.html#a63bf2b0abf68edc3f3e74a0811fe771b" title="Error checking support. Null Island Check (aka latitude and longitude set to zero)." alt="" coords="204,5,347,40"/>
+</map>

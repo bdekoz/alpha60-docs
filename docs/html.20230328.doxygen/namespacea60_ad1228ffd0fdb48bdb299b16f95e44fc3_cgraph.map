@@ -1,0 +1,13 @@
+<map id="a60::augment_ccollection_text" name="a60::augment_ccollection_text">
+<area shape="rect" id="node1" title="Text layer overlay." alt="" coords="5,105,195,128"/>
+<area shape="rect" id="node2" href="$namespacea60.html#ab4006d7794d9932d29555a8c2250d6f7" title=" " alt="" coords="260,70,396,105"/>
+<area shape="rect" id="node9" href="$namespacea60.html#a6070ca9b0aaa2e721d0feacd175f429c" title="Parameterize scaling normalizes on range (nfloor, nceil). nfloor == 2, 48 nceil == 396,..." alt="" coords="243,129,413,163"/>
+<area shape="rect" id="node3" href="$namespacea60.html#ac997b39099fe8c748ee393875dd23c9e" title=" " alt="" coords="461,79,640,101"/>
+<area shape="rect" id="node4" href="$namespacea60.html#a935512b7346e03fbd98295ec07511666" title=" " alt="" coords="688,5,843,28"/>
+<area shape="rect" id="node5" href="$namespacea60.html#a67a216731ae229be675dbcbfa228d865" title=" " alt="" coords="698,52,833,75"/>
+<area shape="rect" id="node7" href="$namespacea60.html#a63bf2b0abf68edc3f3e74a0811fe771b" title="Error checking support. Null Island Check (aka latitude and longitude set to zero)." alt="" coords="694,99,837,134"/>
+<area shape="rect" id="node8" href="$structa60_1_1carto_1_1cartography.html#a57e14cabb4993189316e369a27752a73" title=" " alt="" coords="689,158,842,193"/>
+<area shape="rect" id="node6" href="$namespacea60.html#a1c4e23f164dec11b9fee53e2292af224" title="Convert MaxMind GeoIP information from ISO&#45;8859&#45;1 encoding to UTF&#45;8." alt="" coords="891,52,1059,75"/>
+<area shape="rect" id="node10" href="$namespacea60.html#a3ea049ae7ac9af3ba2edcc7f79d62fde" title="Get min, max of weight in weighed peers." alt="" coords="475,131,626,153"/>
+<area shape="rect" id="node11" href="$namespacea60.html#a0d53d95ed1faf99432c1eaaa0d238732" title="Normalize value from (min, max) on (nfloor, nceil)" alt="" coords="470,177,631,200"/>
+</map>

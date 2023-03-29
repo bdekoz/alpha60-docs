@@ -1,0 +1,5 @@
+<map id="a60::io::append_to_files" name="a60::io::append_to_files">
+<area shape="rect" id="node1" title=" " alt="" coords="5,38,132,73"/>
+<area shape="rect" id="node2" href="$namespacea60_1_1io.html#aea30b8fc474f5a7b922516dc1e199037" title="Takes a string representing a directory, returns a sorted list of contents as a std::vector&lt;string&gt;." alt="" coords="180,5,327,28"/>
+<area shape="rect" id="node3" href="$namespacea60_1_1io.html#afbc9bd4e46187119419128390e16a033" title="Takes a string representing a directory, returns a list of contents as a std::vector&lt;string&gt;." alt="" coords="182,77,325,111"/>
+</map>

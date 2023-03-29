@@ -1,0 +1,6 @@
+<map id="strip_match_from_filename_then_nest_in_subdir" name="strip_match_from_filename_then_nest_in_subdir">
+<area shape="rect" id="node1" title=" " alt="" coords="5,46,172,81"/>
+<area shape="rect" id="node2" href="$namespacea60_1_1io.html#a16f17ea9e02c1975ca17b77e46cf7629" title="Make sure a path ends in &#39;/&#39;;." alt="" coords="233,5,353,28"/>
+<area shape="rect" id="node3" href="$namespacea60_1_1io.html#aea30b8fc474f5a7b922516dc1e199037" title="Takes a string representing a directory, returns a sorted list of contents as a std::vector&lt;string&gt;." alt="" coords="220,52,367,75"/>
+<area shape="rect" id="node4" href="$namespacea60_1_1io.html#ad8339b50abcf6975587ba229c04066e7" title="Check directory exists, else make it." alt="" coords="224,99,363,134"/>
+</map>
