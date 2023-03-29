@@ -1,5 +1,5 @@
 <!--
-<img src="images/a60-logo-outline.svg?sanitize=true" height="287" width="301">
+<img src="/images/a60-logo-outline.svg?sanitize=true" height="287" width="301">
 -->
 
 # Source Documentation
