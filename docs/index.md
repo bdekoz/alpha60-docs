@@ -4,10 +4,9 @@
 
 # Source Documentation
 
-The alpha60 project publishes two documentation formats
+The alpha60 project publishes the following documentation formats
 
-* [doxygen](/docs/doxygen/index.html)
-* [mcss](/mcss/index.html)
+* [doxygen](/html.doxygen.20230328/index.html)
 
 Source documention is released under the GPLv2 license. Please contact
 us if you want to analyze these results in your own research; we'd

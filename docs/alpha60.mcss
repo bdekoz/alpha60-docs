@@ -1,6 +1,0 @@
-@INCLUDE               = alpha60.doxygen
-GENERATE_HTML          = NO
-GENERATE_XML           = YES
-XML_PROGRAMLISTING     = NO
-#PROJECT_LOGO           = file://images/a60-logo-outline.svg
-#SHOW_UNDOCUMENTED      = YES
