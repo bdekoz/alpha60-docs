@@ -6,7 +6,7 @@
 
 The alpha60 project publishes two documentation formats
 
-* [doxygen](https://github.com/bdekoz/alpha60-docs/blob/main/docs/doxygen/index.md)
+* [doxygen](https://github.com/bdekoz/alpha60-docs/blob/main/docs/doxygen/index.html)
 * [mcss](mcss/index.html)
 
 Source documention is released under the GPLv2 license. Please contact
