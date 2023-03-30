@@ -24,3 +24,4 @@ like to help you.
 * Tor exit node list.
 * TeleGeography submarine cable data.
 * Starlink gateway data.
+* [Mermaid](https://github.com/tttapa/doxygen-mermaid)
