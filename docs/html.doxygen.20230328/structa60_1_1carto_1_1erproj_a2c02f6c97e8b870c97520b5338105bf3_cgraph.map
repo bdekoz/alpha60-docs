@@ -1,5 +1,0 @@
-<map id="a60::carto::erproj::image_filename" name="a60::carto::erproj::image_filename">
-<area shape="rect" id="node1" title="Get the filename from the path to the image used in the base map." alt="" coords="5,26,124,61"/>
-<area shape="rect" id="node2" href="$namespacea60_1_1io.html#a16f17ea9e02c1975ca17b77e46cf7629" title="Make sure a path ends in &#39;/&#39;;." alt="" coords="181,5,301,28"/>
-<area shape="rect" id="node3" href="$namespacea60_1_1io.html#ac95e5271a27a23bc2336d84b3f821fa2" title="Constant filesystem and run&#45;time resources." alt="" coords="172,53,311,87"/>
-</map>

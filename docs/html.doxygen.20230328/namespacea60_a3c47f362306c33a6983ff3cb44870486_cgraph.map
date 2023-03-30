@@ -1,6 +1,0 @@
-<map id="a60::augment_weighted_ray_meta_peers" name="a60::augment_weighted_ray_meta_peers">
-<area shape="rect" id="node1" title=" " alt="" coords="5,64,161,99"/>
-<area shape="rect" id="node2" href="$namespacea60.html#a63bf2b0abf68edc3f3e74a0811fe771b" title="Error checking support. Null Island Check (aka latitude and longitude set to zero)." alt="" coords="215,5,357,40"/>
-<area shape="rect" id="node3" href="$structa60_1_1carto_1_1cartography.html#a57e14cabb4993189316e369a27752a73" title=" " alt="" coords="209,64,363,99"/>
-<area shape="rect" id="node4" href="$namespacea60.html#acc0aae0c4ebc05d286eda7104904fb2a" title="Weigh by similar latitude and logitude." alt="" coords="209,123,363,157"/>
-</map>

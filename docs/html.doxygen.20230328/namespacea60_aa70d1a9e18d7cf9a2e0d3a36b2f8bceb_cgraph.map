@@ -1,6 +1,0 @@
-<map id="a60::get_int_field_in_node_across_files" name="a60::get_int_field_in_node_across_files">
-<area shape="rect" id="node1" title="Search files for field value, return std::set of tuple&lt;value, name&gt;" alt="" coords="5,59,144,93"/>
-<area shape="rect" id="node2" href="$namespacea60.html#a538d43bb9bfa488a54cea929736dbe2d" title="Deserialize input file." alt="" coords="196,5,335,40"/>
-<area shape="rect" id="node3" href="$namespacea60_1_1io.html#aea30b8fc474f5a7b922516dc1e199037" title="Takes a string representing a directory, returns a sorted list of contents as a std::vector&lt;string&gt;." alt="" coords="192,65,339,87"/>
-<area shape="rect" id="node4" href="$namespacea60_1_1constants.html#a4eca9d522711df25806d6dd1ff38e904" title=" " alt="" coords="192,111,339,134"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="a60::metadata::serialize_metadata_aggregate" name="a60::metadata::serialize_metadata_aggregate">
-<area shape="rect" id="node1" title="Writes JSON file with details about aggregate metadata." alt="" coords="5,77,164,111"/>
-<area shape="rect" id="node2" href="$namespacea60_1_1metadata.html#a7d18030d9112464bfa6bd2d06ee2f24d" title=" " alt="" coords="223,23,376,58"/>
-<area shape="rect" id="node4" href="$namespacea60.html#aba8b47de875bd5bebeed9c57e3b52c06" title="Serialize buffer to output file." alt="" coords="232,83,367,105"/>
-<area shape="rect" id="node5" href="$namespacea60.html#a44b630b92f160ee4ce08d97e775c5085" title="Serialize set of id_type." alt="" coords="212,129,387,152"/>
-<area shape="rect" id="node3" href="$namespacea60.html#a4e8b0cabed112734147b499bf0cc9029" title="Conversion of resolution_mode to string." alt="" coords="435,29,533,52"/>
-</map>

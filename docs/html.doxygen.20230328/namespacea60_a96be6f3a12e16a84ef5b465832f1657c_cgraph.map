@@ -1,9 +1,0 @@
-<map id="a60::usunique_peers" name="a60::usunique_peers">
-<area shape="rect" id="node1" title="Accumulate peers all files in all subdirectories of dir matching dirm. Where all files matching filem..." alt="" coords="5,111,144,134"/>
-<area shape="rect" id="node2" href="$namespacea60.html#af45982273a7a2e61b6aaa436081238c0" title="Load JSON file to in&#45;memory DOM." alt="" coords="196,5,335,40"/>
-<area shape="rect" id="node4" href="$namespacea60.html#aa900ae641408375a5d008580bab781df" title="Input as: /home/bkoz/src/alpha60&#45;data/game&#45;of&#45;thrones&#45;703/2017&#45;07&#45;31&#45;at&#45;22&#45;30 Output as: 2017." alt="" coords="193,65,337,87"/>
-<area shape="rect" id="node5" href="$namespacea60_1_1io.html#aea30b8fc474f5a7b922516dc1e199037" title="Takes a string representing a directory, returns a sorted list of contents as a std::vector&lt;string&gt;." alt="" coords="192,111,339,134"/>
-<area shape="rect" id="node6" href="$namespacea60_1_1io.html#afbc9bd4e46187119419128390e16a033" title="Takes a string representing a directory, returns a list of contents as a std::vector&lt;string&gt;." alt="" coords="194,183,337,217"/>
-<area shape="rect" id="node7" href="$namespacea60.html#a6ce8704ec3c4d5e258d062283dd40efb" title="Search DOM for meta_peer(s)." alt="" coords="197,241,334,276"/>
-<area shape="rect" id="node3" href="$namespacea60.html#a538d43bb9bfa488a54cea929736dbe2d" title="Deserialize input file." alt="" coords="387,5,525,40"/>
-</map>

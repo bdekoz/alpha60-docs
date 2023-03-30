@@ -1,4 +1,0 @@
-<map id="a60::swarm_gcache::slice_geo_peers_by_longitude" name="a60::swarm_gcache::slice_geo_peers_by_longitude">
-<area shape="rect" id="node1" title="Remove geo peers matching geo range and return as scll argument." alt="" coords="5,5,189,40"/>
-<area shape="rect" id="node2" href="$structa60_1_1swarm__gcache.html#a91d698fd4e22ea8f73fee9dde96aef54" title="Match string from index midx in a geo peer. aka country_code, country, region, city." alt="" coords="237,5,404,40"/>
-</map>

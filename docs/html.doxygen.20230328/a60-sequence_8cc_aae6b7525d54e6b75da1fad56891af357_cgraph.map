@@ -1,5 +1,0 @@
-<map id="composite_images_vertical_flip_up" name="composite_images_vertical_flip_up">
-<area shape="rect" id="node1" title=" " alt="" coords="5,35,175,70"/>
-<area shape="rect" id="node2" href="$namespacea60_1_1io.html#aea30b8fc474f5a7b922516dc1e199037" title="Takes a string representing a directory, returns a sorted list of contents as a std::vector&lt;string&gt;." alt="" coords="223,5,369,28"/>
-<area shape="rect" id="node3" href="$namespacea60.html#a4e8b0cabed112734147b499bf0cc9029" title="Conversion of resolution_mode to string." alt="" coords="247,76,345,99"/>
-</map>

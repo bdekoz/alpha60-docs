@@ -1,9 +1,0 @@
-<map id="a60::collection::find_data_dates_times" name="a60::collection::find_data_dates_times">
-<area shape="rect" id="node1" title=" " alt="" coords="5,59,139,93"/>
-<area shape="rect" id="node2" href="$structa60_1_1collection.html#a772cab0c0123491c08a92fce4cf0eacb" title=" " alt="" coords="389,5,555,40"/>
-<area shape="rect" id="node5" href="$structa60_1_1collection.html#abc4d01b1b17d4622939cb6c5c0f9b38b" title=" " alt="" coords="187,85,341,120"/>
-<area shape="rect" id="node3" href="$namespacea60_1_1io.html#a16f17ea9e02c1975ca17b77e46cf7629" title="Make sure a path ends in &#39;/&#39;;." alt="" coords="612,91,732,114"/>
-<area shape="rect" id="node4" href="$namespacea60_1_1io.html#ac95e5271a27a23bc2336d84b3f821fa2" title="Constant filesystem and run&#45;time resources." alt="" coords="603,19,741,53"/>
-<area shape="rect" id="node6" href="$namespacea60_1_1constants.html#ac27c77e4606552ae5f74a1c21dd9258e" title=" " alt="" coords="394,166,550,189"/>
-<area shape="rect" id="node7" href="$namespacea60_1_1io.html#afbc9bd4e46187119419128390e16a033" title="Takes a string representing a directory, returns a list of contents as a std::vector&lt;string&gt;." alt="" coords="401,237,543,272"/>
-</map>

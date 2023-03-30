@@ -1,4 +1,0 @@
-<map id="a60::swarm_gcache::find_files" name="a60::swarm_gcache::find_files">
-<area shape="rect" id="node1" title=" " alt="" coords="5,5,145,40"/>
-<area shape="rect" id="node2" href="$namespacea60_1_1io.html#aea30b8fc474f5a7b922516dc1e199037" title="Takes a string representing a directory, returns a sorted list of contents as a std::vector&lt;string&gt;." alt="" coords="193,11,340,34"/>
-</map>

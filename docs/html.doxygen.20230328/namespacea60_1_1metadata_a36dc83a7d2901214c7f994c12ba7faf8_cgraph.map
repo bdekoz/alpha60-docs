@@ -1,7 +1,0 @@
-<map id="a60::metadata::init_id_render_state_cache" name="a60::metadata::init_id_render_state_cache">
-<area shape="rect" id="node1" title="Initialize special states, per matching id. Return an array of special/customized ids." alt="" coords="5,82,153,117"/>
-<area shape="rect" id="node2" href="$namespacea60_1_1io.html#a16f17ea9e02c1975ca17b77e46cf7629" title="Make sure a path ends in &#39;/&#39;;." alt="" coords="211,5,331,28"/>
-<area shape="rect" id="node3" href="$namespacea60_1_1metadata.html#abcd6d192e6ed0f853c3c6cd9bcf13cad" title=" " alt="" coords="205,53,336,87"/>
-<area shape="rect" id="node4" href="$namespacea60_1_1metadata.html#abe322ca471be97b35424d804a9c62084" title="Playing values are styled this way." alt="" coords="205,111,336,146"/>
-<area shape="rect" id="node5" href="$namespacea60_1_1io.html#ac95e5271a27a23bc2336d84b3f821fa2" title="Constant filesystem and run&#45;time resources." alt="" coords="201,170,340,205"/>
-</map>

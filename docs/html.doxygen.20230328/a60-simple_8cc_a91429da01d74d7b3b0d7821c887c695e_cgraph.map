@@ -1,8 +1,0 @@
-<map id="unique_analysis_details_from_files" name="unique_analysis_details_from_files">
-<area shape="rect" id="node1" title=" " alt="" coords="5,35,157,69"/>
-<area shape="rect" id="node2" href="$namespacea60.html#aa70d1a9e18d7cf9a2e0d3a36b2f8bceb" title="Search files for field value, return std::set of tuple&lt;value, name&gt;" alt="" coords="205,64,344,99"/>
-<area shape="rect" id="node6" href="$namespacea60.html#abd4130e25b5f048bdec503f962ae4aab" title="Search files for field value, return sum." alt="" coords="205,5,344,40"/>
-<area shape="rect" id="node3" href="$namespacea60.html#a538d43bb9bfa488a54cea929736dbe2d" title="Deserialize input file." alt="" coords="396,59,535,93"/>
-<area shape="rect" id="node4" href="$namespacea60_1_1io.html#aea30b8fc474f5a7b922516dc1e199037" title="Takes a string representing a directory, returns a sorted list of contents as a std::vector&lt;string&gt;." alt="" coords="392,11,539,34"/>
-<area shape="rect" id="node5" href="$namespacea60_1_1constants.html#a4eca9d522711df25806d6dd1ff38e904" title=" " alt="" coords="392,118,539,141"/>
-</map>

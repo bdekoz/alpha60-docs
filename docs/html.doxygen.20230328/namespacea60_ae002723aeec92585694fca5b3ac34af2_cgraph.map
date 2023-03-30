@@ -1,9 +1,0 @@
-<map id="a60::rescue_lost_peers" name="a60::rescue_lost_peers">
-<area shape="rect" id="node1" title="Try again to get geoip information for peers that are returning (0,0)." alt="" coords="5,95,153,118"/>
-<area shape="rect" id="node2" href="$namespacea60.html#ac39b0d667e2ffa7a1bf2df7cc4e5ac38" title="IFF either of the above is true." alt="" coords="201,49,349,71"/>
-<area shape="rect" id="node5" href="$namespacea60.html#ad300edc3a7396b9f52a64f37e9443891" title="No GeoIP." alt="" coords="204,95,347,118"/>
-<area shape="rect" id="node6" href="$structa60_1_1geo_1_1map__base.html#a9215731f10e2fa8488b0e081c2a5cef4" title=" " alt="" coords="207,143,343,177"/>
-<area shape="rect" id="node3" href="$namespacea60.html#a63bf2b0abf68edc3f3e74a0811fe771b" title="Error checking support. Null Island Check (aka latitude and longitude set to zero)." alt="" coords="411,5,553,40"/>
-<area shape="rect" id="node4" href="$namespacea60.html#a0ff511c579a9f94ffff788b1cd4ae864" title="Null Country Check." alt="" coords="397,64,567,99"/>
-<area shape="rect" id="node7" href="$namespacea60_1_1io.html#aa5fbb8ab63397dd45c4a54c0758935ef" title="Sanity check input existence." alt="" coords="413,143,551,177"/>
-</map>

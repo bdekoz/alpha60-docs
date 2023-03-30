@@ -1,6 +1,0 @@
-<map id="a60::make_geo_slices_glyphs" name="a60::make_geo_slices_glyphs">
-<area shape="rect" id="node1" title=" " alt="" coords="5,35,148,69"/>
-<area shape="rect" id="node2" href="$structa60_1_1swarm__gcache.html#a7fc0010a935acecb4bc9a5ca9e3a38b6" title="Remove geo peers matching geo range and return as scll argument." alt="" coords="196,5,380,40"/>
-<area shape="rect" id="node4" href="$structa60_1_1swarm__gcache.html#a52c65b0040757a229beb63361678c73b" title="Count of total added before weighing, should match weights &#45; anomalies." alt="" coords="218,64,358,99"/>
-<area shape="rect" id="node3" href="$structa60_1_1swarm__gcache.html#a91d698fd4e22ea8f73fee9dde96aef54" title="Match string from index midx in a geo peer. aka country_code, country, region, city." alt="" coords="428,5,595,40"/>
-</map>

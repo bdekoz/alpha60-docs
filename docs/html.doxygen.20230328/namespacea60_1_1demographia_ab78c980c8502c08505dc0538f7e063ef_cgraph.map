@@ -1,4 +1,0 @@
-<map id="a60::demographia::normalize_on_population_density" name="a60::demographia::normalize_on_population_density">
-<area shape="rect" id="node1" title="Re&#45;weigh peers based on weight AND density. Assume input peers are urban area only,..." alt="" coords="5,5,192,40"/>
-<area shape="rect" id="node2" href="$namespacea60.html#a0d53d95ed1faf99432c1eaaa0d238732" title="Normalize value from (min, max) on (nfloor, nceil)" alt="" coords="240,11,401,34"/>
-</map>

@@ -1,5 +1,0 @@
-<map id="a60::io::set_output_prefix" name="a60::io::set_output_prefix">
-<area shape="rect" id="node1" title="Sets man output directory." alt="" coords="5,5,132,40"/>
-<area shape="rect" id="node2" href="$namespacea60_1_1io.html#a16f17ea9e02c1975ca17b77e46cf7629" title="Make sure a path ends in &#39;/&#39;;." alt="" coords="356,11,476,34"/>
-<area shape="rect" id="node3" href="$namespacea60_1_1io.html#a6ad052ef18cfb1a1ac708f7c69c9050d" title="Assumes argument is full path, no error checking..." alt="" coords="180,32,308,67"/>
-</map>

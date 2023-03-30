@@ -1,6 +1,0 @@
-<map id="a60::io::get_output_sub_directory" name="a60::io::get_output_sub_directory">
-<area shape="rect" id="node1" title="Make subdirectory for output files." alt="" coords="5,26,133,61"/>
-<area shape="rect" id="node2" href="$namespacea60_1_1io.html#a16f17ea9e02c1975ca17b77e46cf7629" title="Make sure a path ends in &#39;/&#39;;." alt="" coords="368,5,488,28"/>
-<area shape="rect" id="node3" href="$namespacea60_1_1io.html#a6ad052ef18cfb1a1ac708f7c69c9050d" title="Assumes argument is full path, no error checking..." alt="" coords="187,26,315,61"/>
-<area shape="rect" id="node4" href="$namespacea60_1_1io.html#ad8339b50abcf6975587ba229c04066e7" title="Check directory exists, else make it." alt="" coords="181,85,320,119"/>
-</map>

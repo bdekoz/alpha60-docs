@@ -1,6 +1,0 @@
-<map id="a60::make_magnet_handle" name="a60::make_magnet_handle">
-<area shape="rect" id="node1" title="Given session and magnet file, make session." alt="" coords="5,11,176,34"/>
-<area shape="rect" id="node2" href="$namespacea60_1_1io.html#a89f2bd581ec510ccc0a8cfedccff7bd0" title="Top level of directory for output files." alt="" coords="224,5,352,40"/>
-<area shape="rect" id="node3" href="$namespacea60_1_1io.html#a16f17ea9e02c1975ca17b77e46cf7629" title="Make sure a path ends in &#39;/&#39;;." alt="" coords="576,11,696,34"/>
-<area shape="rect" id="node4" href="$namespacea60_1_1io.html#a6ad052ef18cfb1a1ac708f7c69c9050d" title="Assumes argument is full path, no error checking..." alt="" coords="400,32,528,67"/>
-</map>

@@ -1,6 +1,0 @@
-<map id="a60::metadata::augment_metadata_background" name="a60::metadata::augment_metadata_background">
-<area shape="rect" id="node1" title="Base plate color, identity graphics, svg file." alt="" coords="5,53,167,87"/>
-<area shape="rect" id="node2" href="$namespacea60_1_1io.html#a16f17ea9e02c1975ca17b77e46cf7629" title="Make sure a path ends in &#39;/&#39;;." alt="" coords="224,5,344,28"/>
-<area shape="rect" id="node3" href="$namespacea60_1_1metadata.html#abcd6d192e6ed0f853c3c6cd9bcf13cad" title=" " alt="" coords="219,53,349,87"/>
-<area shape="rect" id="node4" href="$namespacea60_1_1io.html#ac95e5271a27a23bc2336d84b3f821fa2" title="Constant filesystem and run&#45;time resources." alt="" coords="215,111,353,146"/>
-</map>

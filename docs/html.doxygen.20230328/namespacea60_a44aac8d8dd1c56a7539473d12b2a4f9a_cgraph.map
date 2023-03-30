@@ -1,5 +1,0 @@
-<map id="a60::weigh_glyphs_via_mode" name="a60::weigh_glyphs_via_mode">
-<area shape="rect" id="node1" title="Weigh a vector of glyphs via the number of current peers." alt="" coords="5,29,188,52"/>
-<area shape="rect" id="node2" href="$namespacea60.html#a0d53d95ed1faf99432c1eaaa0d238732" title="Normalize value from (min, max) on (nfloor, nceil)" alt="" coords="236,5,397,28"/>
-<area shape="rect" id="node3" href="$structa60_1_1glyph.html#ab2b6d99fc50ac7b0a05644091be9738b" title=" " alt="" coords="257,52,376,75"/>
-</map>

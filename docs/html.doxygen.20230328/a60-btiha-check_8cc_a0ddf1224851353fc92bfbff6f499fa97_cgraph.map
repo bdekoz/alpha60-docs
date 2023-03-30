@@ -1,7 +1,0 @@
-<map id="main" name="main">
-<area shape="rect" id="node1" title=" " alt="" coords="5,55,55,77"/>
-<area shape="rect" id="node2" href="$namespacea60.html#a2566618c7673dda7811244413176c440" title=" " alt="" coords="103,22,265,57"/>
-<area shape="rect" id="node5" href="$a60-btiha-check_8cc.html#a10db687c0645469ee3404ed649063237" title=" " alt="" coords="156,81,212,104"/>
-<area shape="rect" id="node3" href="$namespacea60_1_1io.html#aea30b8fc474f5a7b922516dc1e199037" title="Takes a string representing a directory, returns a sorted list of contents as a std::vector&lt;string&gt;." alt="" coords="313,5,460,28"/>
-<area shape="rect" id="node4" href="$namespacea60_1_1io.html#af9ba5ecc6e668e47fb2f020216f7b611" title="Strip off path component from full&#45;qualified filename." alt="" coords="321,52,452,75"/>
-</map>

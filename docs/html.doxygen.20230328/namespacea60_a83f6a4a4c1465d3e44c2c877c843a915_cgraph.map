@@ -1,7 +1,0 @@
-<map id="a60::equal_at_and_previous" name="a60::equal_at_and_previous">
-<area shape="rect" id="node1" title="True if s == day&#45;0007 and match &lt;= day&#45;0007 (aka day&#45;0007, day&#45;0006, day&#45;0005, ......" alt="" coords="5,59,180,81"/>
-<area shape="rect" id="node2" href="$namespacea60.html#a8ee87a5f48a866e439bb39595158a0e3" title="True if s == day&#45;0007 and match == day&#45;0007." alt="" coords="257,5,355,28"/>
-<area shape="rect" id="node3" href="$structa60_1_1collection.html#ab234addb5725bb5900b44f55ec1aae10" title=" " alt="" coords="229,53,383,87"/>
-<area shape="rect" id="node5" href="$namespacea60_1_1constants.html#ac27c77e4606552ae5f74a1c21dd9258e" title=" " alt="" coords="228,112,384,135"/>
-<area shape="rect" id="node4" href="$structa60_1_1collection.html#a899f781ad983b2ec1f0da35a5d3f8b54" title=" " alt="" coords="432,47,585,93"/>
-</map>

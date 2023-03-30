@@ -1,5 +1,0 @@
-<map id="a60::metadata::values_from_fields_matching" name="a60::metadata::values_from_fields_matching">
-<area shape="rect" id="node1" title="Find the values from all matching fields containing agg." alt="" coords="5,50,153,85"/>
-<area shape="rect" id="node2" href="$namespacea60.html#a4e8b0cabed112734147b499bf0cc9029" title="Conversion of resolution_mode to string." alt="" coords="226,29,325,52"/>
-<area shape="rect" id="node3" href="$namespacea60_1_1metadata.html#a80da6438996a07a5fa1df5728c004b2a" title="Find name &#39;field&#39; in JSON file and return vector of values." alt="" coords="201,77,349,111"/>
-</map>

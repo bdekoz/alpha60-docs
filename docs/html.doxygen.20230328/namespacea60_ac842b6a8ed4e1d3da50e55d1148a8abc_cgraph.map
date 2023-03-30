@@ -1,7 +1,0 @@
-<map id="a60::make_meta_peers" name="a60::make_meta_peers">
-<area shape="rect" id="node1" title="Make from peer_info." alt="" coords="5,52,155,75"/>
-<area shape="rect" id="node2" href="$namespacea60.html#ad300edc3a7396b9f52a64f37e9443891" title="No GeoIP." alt="" coords="205,5,347,28"/>
-<area shape="rect" id="node3" href="$namespacea60.html#afa4b02aa30f3ff7828561abb787ede03" title="Less than compare for meta_peer via geo." alt="" coords="203,52,349,75"/>
-<area shape="rect" id="node4" href="$structa60_1_1geo_1_1map__base.html#a9215731f10e2fa8488b0e081c2a5cef4" title=" " alt="" coords="208,99,344,134"/>
-<area shape="rect" id="node5" href="$namespacea60_1_1io.html#aa5fbb8ab63397dd45c4a54c0758935ef" title="Sanity check input existence." alt="" coords="397,99,536,134"/>
-</map>

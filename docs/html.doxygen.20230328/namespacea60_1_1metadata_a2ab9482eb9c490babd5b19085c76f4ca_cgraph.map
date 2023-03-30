@@ -1,6 +1,0 @@
-<map id="a60::metadata::diptych_ydipoles" name="a60::metadata::diptych_ydipoles">
-<area shape="rect" id="node1" title="Find the center points of vertical (top and bottom) diptych circles." alt="" coords="5,35,157,69"/>
-<area shape="rect" id="node2" href="$namespacea60_1_1constants.html#a613cac7d85819a545849f5eefd733896" title=" " alt="" coords="205,5,340,40"/>
-<area shape="rect" id="node4" href="$namespacea60_1_1metadata.html#ae3aa31b1fc054034f40b30f22bf0d4b8" title="Find orbit of ring, given radius, rspace, and number ring. Assume: ringsn starts with 1 for values an..." alt="" coords="206,64,339,99"/>
-<area shape="rect" id="node3" href="$namespacea60_1_1constants.html#ac27c77e4606552ae5f74a1c21dd9258e" title=" " alt="" coords="388,11,544,34"/>
-</map>

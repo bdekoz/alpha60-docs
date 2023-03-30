@@ -1,5 +1,0 @@
-<map id="strip_whitespace_from_filename" name="strip_whitespace_from_filename">
-<area shape="rect" id="node1" title=" " alt="" coords="5,38,148,73"/>
-<area shape="rect" id="node2" href="$namespacea60_1_1io.html#aea30b8fc474f5a7b922516dc1e199037" title="Takes a string representing a directory, returns a sorted list of contents as a std::vector&lt;string&gt;." alt="" coords="196,5,343,28"/>
-<area shape="rect" id="node3" href="$namespacea60_1_1io.html#afbc9bd4e46187119419128390e16a033" title="Takes a string representing a directory, returns a list of contents as a std::vector&lt;string&gt;." alt="" coords="198,77,341,111"/>
-</map>
