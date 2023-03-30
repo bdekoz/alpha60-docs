@@ -2,6 +2,8 @@
 <img src="/images/a60-logo-outline.svg?sanitize=true" height="287" width="301">
 -->
 
+![alpha60 logo](/images/a60-logo-outline.svg)
+
 # Source Documentation
 
 The alpha60 project publishes the following documentation formats
