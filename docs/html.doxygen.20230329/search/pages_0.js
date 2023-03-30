@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['alpha60_2ddocs_0',['alpha60-docs',['../index.html',1,'']]]
+  ['alpha60_0',['alpha60',['../index.html',1,'']]]
 ];
