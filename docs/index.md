@@ -5,6 +5,7 @@
 The alpha60 project publishes the following documentation formats
 
 * [doxygen](/html.doxygen.20230329/index.html)
+* [mermaid](/code_flows.md)
 
 Source documention is released under the GPLv2 license. Please contact
 us if you want to analyze these results in your own research; we'd
