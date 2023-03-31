@@ -4,7 +4,7 @@
 
 The alpha60 project publishes the following documentation formats
 
-- [doxygen](/html.doxygen.20230331/index.html)
+- [doxygen](/html.doxygen/index.html)
 - mermaid diagrams
     - [meta_render](/mermaid/code_flow_meta_render.md)
 
