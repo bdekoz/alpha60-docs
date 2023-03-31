@@ -24,4 +24,4 @@ stateDiagram-v2;
     meta_render --> [*];
 ```
 
-[See file](https://bdekoz.github.io/alpha60-docs/html.doxygen.20230329/a60-svg-collection-augment_8h.html)
+[See file: a60-svg-collection-augment.h](https://bdekoz.github.io/alpha60-docs/html.doxygen.20230329/a60-svg-collection-augment_8h.html)
