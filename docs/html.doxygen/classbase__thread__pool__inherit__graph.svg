@@ -20,7 +20,7 @@
 <!-- Node2 -->
 <g id="node2" class="node">
 <title>Node2</title>
-<g id="a_node2"><a xlink:href="$classbase__thread__pool.html" xlink:title=" ">
+<g id="a_node2"><a xlink:href="classbase__thread__pool.html" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="#666666" points="117.5,-80 7.5,-80 7.5,-54 117.5,-54 117.5,-80"/>
 <text text-anchor="start" x="15.5" y="-69.6" font-family="SourceSans" font-size="8.00">base_thread_pool&lt; std</text>
 <text text-anchor="middle" x="62.5" y="-60.6" font-family="SourceSans" font-size="8.00">::future&lt; void &gt; &gt;</text>
@@ -37,7 +37,7 @@
 <!-- Node3 -->
 <g id="node3" class="node">
 <title>Node3</title>
-<g id="a_node3"><a xlink:href="$classthread__pool.html" xlink:title=" ">
+<g id="a_node3"><a xlink:href="classthread__pool.html" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="#666666" points="95,-17 30,-17 30,0 95,0 95,-17"/>
 <text text-anchor="middle" x="62.5" y="-6.6" font-family="SourceSans" font-size="8.00">thread_pool</text>
 </a>

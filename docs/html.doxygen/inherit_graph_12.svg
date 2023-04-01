@@ -11,7 +11,7 @@
 <!-- Node0 -->
 <g id="node1" class="node">
 <title>Node0</title>
-<g id="a_node1"><a xlink:href="$structa60_1_1glyph.html" xlink:title=" ">
+<g id="a_node1"><a xlink:href="structa60_1_1glyph.html" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="#666666" points="61,-17 0,-17 0,0 61,0 61,-17"/>
 <text text-anchor="middle" x="30.5" y="-6.6" font-family="SourceSans" font-size="8.00">a60::glyph</text>
 </a>

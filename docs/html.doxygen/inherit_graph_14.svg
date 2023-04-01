@@ -11,7 +11,7 @@
 <!-- Node0 -->
 <g id="node1" class="node">
 <title>Node0</title>
-<g id="a_node1"><a xlink:href="$structa60_1_1meta__torrent.html" xlink:title="Abstraction for torrent.">
+<g id="a_node1"><a xlink:href="structa60_1_1meta__torrent.html" target="_top" xlink:title="Abstraction for torrent.">
 <polygon fill="white" stroke="#666666" points="90,-17 0,-17 0,0 90,0 90,-17"/>
 <text text-anchor="middle" x="45" y="-6.6" font-family="SourceSans" font-size="8.00">a60::meta_torrent</text>
 </a>

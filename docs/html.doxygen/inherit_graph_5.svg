@@ -11,7 +11,7 @@
 <!-- Node0 -->
 <g id="node1" class="node">
 <title>Node0</title>
-<g id="a_node1"><a xlink:href="$structa60_1_1carto_1_1projection__api.html" xlink:title="Abstract base class for derived projections.">
+<g id="a_node1"><a xlink:href="structa60_1_1carto_1_1projection__api.html" target="_top" xlink:title="Abstract base class for derived projections.">
 <polygon fill="white" stroke="#666666" points="126,-52 4,-52 4,-35 126,-35 126,-52"/>
 <text text-anchor="middle" x="65" y="-41.6" font-family="SourceSans" font-size="8.00">a60::carto::projection_api</text>
 </a>
@@ -20,7 +20,7 @@
 <!-- Node1 -->
 <g id="node2" class="node">
 <title>Node1</title>
-<g id="a_node2"><a xlink:href="$structa60_1_1carto_1_1ckproj.html" xlink:title=" ">
+<g id="a_node2"><a xlink:href="structa60_1_1carto_1_1ckproj.html" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="#666666" points="255,-52 166,-52 166,-35 255,-35 255,-52"/>
 <text text-anchor="middle" x="210.5" y="-41.6" font-family="SourceSans" font-size="8.00">a60::carto::ckproj</text>
 </a>
@@ -35,7 +35,7 @@
 <!-- Node3 -->
 <g id="node3" class="node">
 <title>Node3</title>
-<g id="a_node3"><a xlink:href="$structa60_1_1carto_1_1erproj.html" xlink:title=" ">
+<g id="a_node3"><a xlink:href="structa60_1_1carto_1_1erproj.html" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="#666666" points="255,-17 166,-17 166,0 255,0 255,-17"/>
 <text text-anchor="middle" x="210.5" y="-6.6" font-family="SourceSans" font-size="8.00">a60::carto::erproj</text>
 </a>
@@ -50,7 +50,7 @@
 <!-- Node2 -->
 <g id="node4" class="node">
 <title>Node2</title>
-<g id="a_node4"><a xlink:href="$structa60_1_1carto_1_1projection__base.html" xlink:title=" ">
+<g id="a_node4"><a xlink:href="structa60_1_1carto_1_1projection__base.html" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="#666666" points="130,-17 0,-17 0,0 130,0 130,-17"/>
 <text text-anchor="middle" x="65" y="-6.6" font-family="SourceSans" font-size="8.00">a60::carto::projection_base</text>
 </a>

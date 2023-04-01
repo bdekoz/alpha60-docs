@@ -11,7 +11,7 @@
 <!-- Node0 -->
 <g id="node1" class="node">
 <title>Node0</title>
-<g id="a_node1"><a xlink:href="$structstd_1_1hash_3_01tuple_3_01TupleArgs_8_8_8_01_4_01_4.html" xlink:title=" ">
+<g id="a_node1"><a xlink:href="structstd_1_1hash_3_01tuple_3_01TupleArgs_8_8_8_01_4_01_4.html" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="#666666" points="159,-17 0,-17 0,0 159,0 159,-17"/>
 <text text-anchor="middle" x="79.5" y="-6.6" font-family="SourceSans" font-size="8.00">std::hash&lt; tuple&lt; TupleArgs... &gt; &gt;</text>
 </a>

@@ -20,7 +20,7 @@
 <!-- Node2 -->
 <g id="node2" class="node">
 <title>Node2</title>
-<g id="a_node2"><a xlink:href="$structa60_1_1geo_1_1city__map.html" xlink:title="Region mapping.">
+<g id="a_node2"><a xlink:href="structa60_1_1geo_1_1city__map.html" target="_top" xlink:title="Region mapping.">
 <polygon fill="white" stroke="#666666" points="96,-17 0,-17 0,0 96,0 96,-17"/>
 <text text-anchor="middle" x="48" y="-6.6" font-family="SourceSans" font-size="8.00">a60::geo::city_map</text>
 </a>
@@ -35,7 +35,7 @@
 <!-- Node3 -->
 <g id="node3" class="node">
 <title>Node3</title>
-<g id="a_node3"><a xlink:href="$structa60_1_1geo_1_1country__map.html" xlink:title="Country mapping.">
+<g id="a_node3"><a xlink:href="structa60_1_1geo_1_1country__map.html" target="_top" xlink:title="Country mapping.">
 <polygon fill="white" stroke="#666666" points="227.5,-17 114.5,-17 114.5,0 227.5,0 227.5,-17"/>
 <text text-anchor="middle" x="171" y="-6.6" font-family="SourceSans" font-size="8.00">a60::geo::country_map</text>
 </a>
