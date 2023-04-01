@@ -1,6 +1,6 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$structa60_1_1carto_1_1projection__api.html" title="Abstract base class for derived projections." alt="" coords="11,5,173,28"/>
-<area shape="rect" id="node2" href="$structa60_1_1carto_1_1ckproj.html" title=" " alt="" coords="227,5,345,28"/>
-<area shape="rect" id="node3" href="$structa60_1_1carto_1_1erproj.html" title=" " alt="" coords="227,52,345,75"/>
-<area shape="rect" id="node4" href="$structa60_1_1carto_1_1projection__base.html" title=" " alt="" coords="5,52,179,75"/>
+<area shape="rect" id="node1" href="$structa60_1_1carto_1_1projection__api.html" title="Abstract base class for derived projections." alt="" coords="9,5,159,28"/>
+<area shape="rect" id="node2" href="$structa60_1_1carto_1_1ckproj.html" title=" " alt="" coords="211,5,319,28"/>
+<area shape="rect" id="node3" href="$structa60_1_1carto_1_1erproj.html" title=" " alt="" coords="211,52,318,75"/>
+<area shape="rect" id="node4" href="$structa60_1_1carto_1_1projection__base.html" title=" " alt="" coords="5,52,163,75"/>
 </map>
