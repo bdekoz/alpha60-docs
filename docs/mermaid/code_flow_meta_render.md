@@ -6,4 +6,6 @@
 
 @mermaid{metarender}
 
+@mermaid{graphs/metarender}
+
 @mermaid{../graphs/metarender}
