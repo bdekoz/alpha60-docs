@@ -91,7 +91,16 @@ $(function() {
     augment_unique_collection_ck --> augment_weighed_cumulative_state
     augment_weighed_cumulative_state --> augment_weighed_cumulative_slice
     augment_weighed_cumulative_slice --> augment_weighed_slice
+
     augment_weighed_slice --> augment_weighed_swarm_once : oncep
+    state if_state<<choice>>
+    if_state --> augment_weighed_by_torrent : bytorrentp
+    augment_weighed_swarm_once --> augment_collection_density
+    augment_weighed_swarm_once --> augment_weighed_by_partition
+    augment_weighed_swarm_once --> augment_collection_access
+    augment_weighed_swarm_once --> augment_weighed_swarm_vdata["ovoid \n topn"]
+    augment_weighed_swarm_once -->  augment_collection_density
+
     augment_weighed_slice --> augment_weighed_swarm_variations : variationsp
     augment_weighed_slice --> augment_weighed_swarm_vcarto_composite
 
