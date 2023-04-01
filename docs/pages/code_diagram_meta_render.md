@@ -1,3 +1,5 @@
+![alpha60 logo](/images/a60-logo-outline.svg)
+
 # meta_render
 
 [a60-cache-recache-synthesize-uniques.cc](https://bdekoz.github.io/alpha60-docs/html.doxygen/a60-cache-recache-synthesize-uniques_8cc.html)
