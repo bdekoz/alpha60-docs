@@ -76,8 +76,8 @@ $(function() {
   <div class="headertitle"><div class="title">meta_render </div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><p ><a href="https://bdekoz.github.io/alpha60-docs/html.doxygen.20230329/a60-cache-recache-synthesize-uniques_8cc.html">source a60-cache-recache-synthesize-uniques.cc</a></p>
-<p ><a href="https://bdekoz.github.io/alpha60-docs/html.doxygen.20230329/a60-svg-collection-augment_8h.html">source a60-svg-collection-augment.h</a></p>
+<div class="textblock"><p ><a href="https://bdekoz.github.io/alpha60-docs/html.doxygen/a60-cache-recache-synthesize-uniques_8cc.html">a60-cache-recache-synthesize-uniques.cc</a></p>
+<p ><a href="https://bdekoz.github.io/alpha60-docs/html.doxygen/a60-svg-collection-augment_8h.html">a60-svg-collection-augment.h</a></p>
 <p > <div class="mermaid"> 
    stateDiagram-v2
     [*] --> meta_render
@@ -103,31 +103,8 @@ $(function() {
     augment_swarm_duration --> augment_weighed_swarm_vcarto_composite
     augment_weighed_swarm_vcarto_composite --> [*]
   
-  </div> </p>
-<div class="fragment"><div class="line">stateDiagram-v2</div>
-<div class="line">    [*] --&gt; meta_render</div>
-<div class="line">    meta_render --&gt; render_reconsider_local</div>
-<div class="line">    state if_state&lt;&lt;choice&gt;&gt;</div>
-<div class="line"> </div>
-<div class="line">    render_reconsider_local --&gt; if_state</div>
-<div class="line">    if_state --&gt; augment_unique_collection : cumulative</div>
-<div class="line">    augment_unique_collection --&gt; augment_unique_collection_er</div>
-<div class="line">    augment_unique_collection --&gt; augment_unique_collection_ck</div>
-<div class="line">    augment_unique_collection_ck --&gt; augment_weighed_cumulative_state</div>
-<div class="line">    augment_weighed_cumulative_state --&gt; augment_weighed_cumulative_slice</div>
-<div class="line">    augment_weighed_cumulative_slice --&gt; augment_weighed_slice</div>
-<div class="line">    augment_weighed_slice --&gt; augment_weighed_swarm_once : oncep</div>
-<div class="line">    augment_weighed_slice --&gt; augment_weighed_swarm_variations : variationsp</div>
-<div class="line">    augment_weighed_slice --&gt; augment_weighed_swarm_vcarto_composite</div>
-<div class="line"> </div>
-<div class="line">    if_state --&gt; augment_weighed_duration_since: week</div>
-<div class="line">    if_state --&gt; augment_weighed_duration_since: day</div>
-<div class="line">    if_state --&gt; augment_weighed_duration_since: hour</div>
-<div class="line">    augment_weighed_duration_since --&gt; duration_since_each</div>
-<div class="line">    duration_since_each --&gt; augment_swarm_duration</div>
-<div class="line">    augment_swarm_duration --&gt; augment_weighed_swarm_vcarto_composite</div>
-<div class="line">    augment_weighed_swarm_vcarto_composite --&gt; [*]</div>
-</div><!-- fragment --> </div></div><!-- contents -->
+  </div>  </p>
+</div></div><!-- contents -->
 </div><!-- PageDoc -->
 <!-- HTML footer for doxygen 1.9.5-->
 <!-- start footer part -->
