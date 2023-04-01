@@ -11,7 +11,7 @@
 <!-- Node0 -->
 <g id="node1" class="node">
 <title>Node0</title>
-<g id="a_node1"><a xlink:href="classbase__thread__pool.html" target="_top" xlink:title=" ">
+<g id="a_node1"><a xlink:href="$classbase__thread__pool.html" xlink:title=" ">
 <polygon fill="white" stroke="#666666" points="125,-17 0,-17 0,0 125,0 125,-17"/>
 <text text-anchor="middle" x="62.5" y="-6.6" font-family="SourceSans" font-size="8.00">base_thread_pool&lt; Task &gt;</text>
 </a>

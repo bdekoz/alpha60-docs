@@ -20,7 +20,7 @@
 <!-- Node2 -->
 <g id="node2" class="node">
 <title>Node2</title>
-<g id="a_node2"><a xlink:href="structa60_1_1carto_1_1projection__base.html" target="_top" xlink:title=" ">
+<g id="a_node2"><a xlink:href="$structa60_1_1carto_1_1projection__base.html" xlink:title=" ">
 <polygon fill="white" stroke="#666666" points="130,-70 0,-70 0,-53 130,-53 130,-70"/>
 <text text-anchor="middle" x="65" y="-59.6" font-family="SourceSans" font-size="8.00">a60::carto::projection_base</text>
 </a>
@@ -35,7 +35,7 @@
 <!-- Node3 -->
 <g id="node3" class="node">
 <title>Node3</title>
-<g id="a_node3"><a xlink:href="structa60_1_1carto_1_1projection__api.html" target="_top" xlink:title="Abstract base class for derived projections.">
+<g id="a_node3"><a xlink:href="$structa60_1_1carto_1_1projection__api.html" xlink:title="Abstract base class for derived projections.">
 <polygon fill="white" stroke="#666666" points="270,-70 148,-70 148,-53 270,-53 270,-70"/>
 <text text-anchor="middle" x="209" y="-59.6" font-family="SourceSans" font-size="8.00">a60::carto::projection_api</text>
 </a>

@@ -11,7 +11,7 @@
 <!-- Node0 -->
 <g id="node1" class="node">
 <title>Node0</title>
-<g id="a_node1"><a xlink:href="structa60_1_1carto_1_1slice__base.html" target="_top" xlink:title="Slice base type.">
+<g id="a_node1"><a xlink:href="$structa60_1_1carto_1_1slice__base.html" xlink:title="Slice base type.">
 <polygon fill="white" stroke="#666666" points="108,-21.5 0,-21.5 0,-4.5 108,-4.5 108,-21.5"/>
 <text text-anchor="middle" x="54" y="-11.1" font-family="SourceSans" font-size="8.00">a60::carto::slice_base</text>
 </a>
@@ -20,7 +20,7 @@
 <!-- Node1 -->
 <g id="node2" class="node">
 <title>Node1</title>
-<g id="a_node2"><a xlink:href="structa60_1_1carto_1_1slice.html" target="_top" xlink:title="Slice type.">
+<g id="a_node2"><a xlink:href="$structa60_1_1carto_1_1slice.html" xlink:title="Slice type.">
 <polygon fill="white" stroke="#666666" points="235,-26 144,-26 144,0 235,0 235,-26"/>
 <text text-anchor="start" x="152" y="-15.6" font-family="SourceSans" font-size="8.00">a60::carto::slice&lt;</text>
 <text text-anchor="middle" x="189.5" y="-6.6" font-family="SourceSans" font-size="8.00"> _Proj &gt;</text>

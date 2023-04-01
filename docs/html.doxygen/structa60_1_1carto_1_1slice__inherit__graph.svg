@@ -21,7 +21,7 @@
 <!-- Node2 -->
 <g id="node2" class="node">
 <title>Node2</title>
-<g id="a_node2"><a xlink:href="structa60_1_1carto_1_1slice__base.html" target="_top" xlink:title="Slice base type.">
+<g id="a_node2"><a xlink:href="$structa60_1_1carto_1_1slice__base.html" xlink:title="Slice base type.">
 <polygon fill="white" stroke="#666666" points="108,-79 0,-79 0,-62 108,-62 108,-79"/>
 <text text-anchor="middle" x="54" y="-68.6" font-family="SourceSans" font-size="8.00">a60::carto::slice_base</text>
 </a>

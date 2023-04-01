@@ -11,7 +11,7 @@
 <!-- Node0 -->
 <g id="node1" class="node">
 <title>Node0</title>
-<g id="a_node1"><a xlink:href="structa60_1_1carto_1_1carto__state.html" target="_top" xlink:title="Cartographic state type.">
+<g id="a_node1"><a xlink:href="$structa60_1_1carto_1_1carto__state.html" xlink:title="Cartographic state type.">
 <polygon fill="white" stroke="#666666" points="111,-17 0,-17 0,0 111,0 111,-17"/>
 <text text-anchor="middle" x="55.5" y="-6.6" font-family="SourceSans" font-size="8.00">a60::carto::carto_state</text>
 </a>

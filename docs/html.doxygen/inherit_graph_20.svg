@@ -11,7 +11,7 @@
 <!-- Node0 -->
 <g id="node1" class="node">
 <title>Node0</title>
-<g id="a_node1"><a xlink:href="structa60_1_1timer.html" target="_top" xlink:title="Encapsulated timer with reporting.">
+<g id="a_node1"><a xlink:href="$structa60_1_1timer.html" xlink:title="Encapsulated timer with reporting.">
 <polygon fill="white" stroke="#666666" points="59,-17 0,-17 0,0 59,0 59,-17"/>
 <text text-anchor="middle" x="29.5" y="-6.6" font-family="SourceSans" font-size="8.00">a60::timer</text>
 </a>

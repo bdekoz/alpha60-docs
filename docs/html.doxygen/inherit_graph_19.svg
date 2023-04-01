@@ -11,7 +11,7 @@
 <!-- Node0 -->
 <g id="node1" class="node">
 <title>Node0</title>
-<g id="a_node1"><a xlink:href="structa60_1_1swarm__setaside.html" target="_top" xlink:title="Set of previous peers, for comparison.">
+<g id="a_node1"><a xlink:href="$structa60_1_1swarm__setaside.html" xlink:title="Set of previous peers, for comparison.">
 <polygon fill="white" stroke="#666666" points="104,-17 0,-17 0,0 104,0 104,-17"/>
 <text text-anchor="middle" x="52" y="-6.6" font-family="SourceSans" font-size="8.00">a60::swarm_setaside</text>
 </a>

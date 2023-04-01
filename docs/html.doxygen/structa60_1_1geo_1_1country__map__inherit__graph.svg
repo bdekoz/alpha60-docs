@@ -20,7 +20,7 @@
 <!-- Node2 -->
 <g id="node2" class="node">
 <title>Node2</title>
-<g id="a_node2"><a xlink:href="structa60_1_1geo_1_1map__base.html" target="_top" xlink:title=" ">
+<g id="a_node2"><a xlink:href="$structa60_1_1geo_1_1map__base.html" xlink:title=" ">
 <polygon fill="white" stroke="#666666" points="107.5,-70 5.5,-70 5.5,-53 107.5,-53 107.5,-70"/>
 <text text-anchor="middle" x="56.5" y="-59.6" font-family="SourceSans" font-size="8.00">a60::geo::map_base</text>
 </a>

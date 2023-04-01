@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>alpha60: index.md File Reference</title>
+<title>alpha60: meta_render</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -72,11 +72,40 @@ $(function() {
 </div>
 
 </div><!-- top -->
-<div class="header">
-  <div class="headertitle"><div class="title">index.md File Reference</div></div>
+<div><div class="header">
+  <div class="headertitle"><div class="title">meta_render </div></div>
 </div><!--header-->
 <div class="contents">
-</div><!-- contents -->
+<div class="textblock"><p ><a href="https://bdekoz.github.io/alpha60-docs/html.doxygen.20230329/a60-cache-recache-synthesize-uniques_8cc.html">source a60-cache-recache-synthesize-uniques.cc</a></p>
+<p ><a href="https://bdekoz.github.io/alpha60-docs/html.doxygen.20230329/a60-svg-collection-augment_8h.html">source a60-svg-collection-augment.h</a></p>
+<p > <div class="mermaid"> 
+   stateDiagram-v2
+    [*] --> meta_render
+    meta_render --> render_reconsider_local
+    state if_state<<choice>>
+
+    render_reconsider_local --> if_state
+    if_state --> augment_unique_collection : cumulative
+    augment_unique_collection --> augment_unique_collection_er
+    augment_unique_collection --> augment_unique_collection_ck
+    augment_unique_collection_ck --> augment_weighed_cumulative_state
+    augment_weighed_cumulative_state --> augment_weighed_cumulative_slice
+    augment_weighed_cumulative_slice --> augment_weighed_slice
+    augment_weighed_slice --> augment_weighed_swarm_once : oncep
+    augment_weighed_slice --> augment_weighed_swarm_variations : variationsp
+    augment_weighed_slice --> augment_weighed_swarm_vcarto_composite
+
+    if_state --> augment_weighed_duration_since: week
+    if_state --> augment_weighed_duration_since: day
+    if_state --> augment_weighed_duration_since: hour
+    augment_weighed_duration_since --> duration_since_each
+    duration_since_each --> augment_swarm_duration
+    augment_swarm_duration --> augment_weighed_swarm_vcarto_composite
+    augment_weighed_swarm_vcarto_composite --> [*]
+  
+  </div>  </p>
+</div></div><!-- contents -->
+</div><!-- PageDoc -->
 <!-- HTML footer for doxygen 1.9.5-->
 <!-- start footer part -->
 <hr class="footer"/><address class="footer"><small>

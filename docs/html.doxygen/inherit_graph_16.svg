@@ -11,7 +11,7 @@
 <!-- Node0 -->
 <g id="node1" class="node">
 <title>Node0</title>
-<g id="a_node1"><a xlink:href="structa60_1_1scoped__timer.html" target="_top" xlink:title="timer with RAII">
+<g id="a_node1"><a xlink:href="$structa60_1_1scoped__timer.html" xlink:title="timer with RAII">
 <polygon fill="white" stroke="#666666" points="93,-17 0,-17 0,0 93,0 93,-17"/>
 <text text-anchor="middle" x="46.5" y="-6.6" font-family="SourceSans" font-size="8.00">a60::scoped_timer</text>
 </a>
