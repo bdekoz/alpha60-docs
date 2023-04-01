@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>alpha60: meta_render</title>
+<title>alpha60: index</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -73,37 +73,33 @@ $(function() {
 
 </div><!-- top -->
 <div><div class="header">
-  <div class="headertitle"><div class="title">meta_render </div></div>
+  <div class="headertitle"><div class="title">index </div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><p ><a href="https://bdekoz.github.io/alpha60-docs/html.doxygen.20230329/a60-cache-recache-synthesize-uniques_8cc.html">source a60-cache-recache-synthesize-uniques.cc</a></p>
-<p ><a href="https://bdekoz.github.io/alpha60-docs/html.doxygen.20230329/a60-svg-collection-augment_8h.html">source a60-svg-collection-augment.h</a></p>
-<p > <div class="mermaid"> 
-   stateDiagram-v2
-    [*] --> meta_render
-    meta_render --> render_reconsider_local
-    state if_state<<choice>>
-
-    render_reconsider_local --> if_state
-    if_state --> augment_unique_collection : cumulative
-    augment_unique_collection --> augment_unique_collection_er
-    augment_unique_collection --> augment_unique_collection_ck
-    augment_unique_collection_ck --> augment_weighed_cumulative_state
-    augment_weighed_cumulative_state --> augment_weighed_cumulative_slice
-    augment_weighed_cumulative_slice --> augment_weighed_slice
-    augment_weighed_slice --> augment_weighed_swarm_once : oncep
-    augment_weighed_slice --> augment_weighed_swarm_variations : variationsp
-    augment_weighed_slice --> augment_weighed_swarm_vcarto_composite
-
-    if_state --> augment_weighed_duration_since: week
-    if_state --> augment_weighed_duration_since: day
-    if_state --> augment_weighed_duration_since: hour
-    augment_weighed_duration_since --> duration_since_each
-    duration_since_each --> augment_swarm_duration
-    augment_swarm_duration --> augment_weighed_swarm_vcarto_composite
-    augment_weighed_swarm_vcarto_composite --> [*]
-  
-  </div>  </p>
+<div class="textblock"><p ><img src="a60-logo-outline.svg" alt="" style="pointer-events: none;" class="inline" title="alpha60 logo"/>    </p>
+<h1>Source Documentation</h1>
+<p >The alpha60 project publishes the following documentation formats</p>
+<ul>
+<li><a href="/html.doxygen/index.html">doxygen</a></li>
+<li>mermaid diagrams<ul>
+<li><a class="el" href="md_code_diagram_meta_render.html">meta_render</a></li>
+</ul>
+</li>
+</ul>
+<p >Source documention is released under the GPLv2 license. Please contact us if you want to analyze these results in your own research; we'd like to help you.</p>
+<h1>Credits</h1>
+<ul>
+<li><a href="https://github.com/arvidn/libtorrent">libtorrent</a></li>
+<li>ISO 3166 mappings between iso-3-, iso-3, and English language shortnames provided provided via <a href="https://github.com/lukes/ISO-3166-Countries-with-Regional-Codes">Luke Duncafe</a></li>
+<li>Cartograhic base maps by visionscarto. Cartographic projections via D3.js geo-polygon.</li>
+<li>Boost. GNU C++. Linux.</li>
+<li>Demographic data from demographia.</li>
+<li>GeoIP routines from MaxMind, with assistance from whois.</li>
+<li>Tor exit node list.</li>
+<li><a href="https://www2.telegeography.com/">TeleGeography</a> submarine cable and internet exchange data.</li>
+<li>Starlink gateway data.</li>
+<li><a href="https://github.com/tttapa/doxygen-mermaid">Mermaid</a> </li>
+</ul>
 </div></div><!-- contents -->
 </div><!-- PageDoc -->
 <!-- HTML footer for doxygen 1.9.5-->
