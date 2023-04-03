@@ -7,6 +7,8 @@ The alpha60 project publishes the following documentation formats
 - [doxygen](/html.doxygen/index.html)
 - mermaid diagrams
     - [meta_render](https://bdekoz.github.io/alpha60-docs/html.doxygen/md_pages_code_diagram_meta_render.html)
+    - [meta_recache_serialize](https://bdekoz.github.io/alpha60-docs/html.doxygen/md_pages_code_diagram_meta_recache_serialize.html)
+    - [coalesce_single](https://bdekoz.github.io/alpha60-docs/html.doxygen/md_pages_code_diagram_coalesce_single.html)
 
 
 Source documention is released under the GPLv2 license. Please contact
