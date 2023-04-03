@@ -1,0 +1,23 @@
+stateDiagram-v2
+    [*] --> meta_recache_serialize
+
+    state if_state<<choice>>
+    meta_recache_serialize --> if_state
+    if_state --> serialize_btiha_per: hour
+    if_state --> serialize_btiha_per: day
+    if_state --> serialize_btiha_per: week
+    if_state --> serialize_unique_collection_duration: cumulative detail
+    if_state --> serialize_unique_collection: cumulative minimal
+
+    serialize_unique_collection_duration --> deserialize_json_to_dom_object
+    serialize_unique_collection_duration --> serialize_collection_base_json
+    serialize_unique_collection_duration --> serialize_collection_metadata_json
+    serialize_unique_collection_duration --> serialize_btiha_summary
+
+    serialize_unique_collection_duration --> serialize_btiha_duration: week
+    serialize_unique_collection_duration --> serialize_btiha_duration: day
+
+    serialize_unique_collection_duration --> coalesce_with_unique_btiha
+
+    serialize_unique_collection_duration --> serialize_summary_geo_topn
+    serialize_unique_collection_duration --> serialize_btiha_detail
