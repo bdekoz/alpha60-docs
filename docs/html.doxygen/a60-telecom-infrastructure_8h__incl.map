@@ -1,58 +1,58 @@
 <map id="/home/bkoz/src/alpha60&#45;docs/src/a60&#45;telecom&#45;infrastructure.h" name="/home/bkoz/src/alpha60&#45;docs/src/a60&#45;telecom&#45;infrastructure.h">
-<area shape="rect" id="node1" title=" " alt="" coords="2788,5,2935,52"/>
-<area shape="rect" id="node2" href="$a60-json_8h.html" title=" " alt="" coords="2689,106,2764,129"/>
-<area shape="rect" id="node51" href="$a60-collection-json_8h.html" title=" " alt="" coords="2799,106,2924,129"/>
-<area shape="rect" id="node56" href="$a60-carto-projection-cahill-keyes-functions_8h.html" title=" " alt="" coords="2948,100,3092,135"/>
-<area shape="rect" id="node3" href="$a60-swarm-functions_8h.html" title=" " alt="" coords="2637,183,2774,205"/>
-<area shape="rect" id="node4" href="$a60-peer_8h.html" title=" " alt="" coords="1103,259,1177,282"/>
-<area shape="rect" id="node44" href="$a60-json-fwd_8h.html" title=" " alt="" coords="2636,259,2732,282"/>
-<area shape="rect" id="node5" href="$a60-geo_8h.html" title=" " alt="" coords="971,342,1043,365"/>
-<area shape="rect" id="node31" href="$a60-network-functions_8h.html" title=" " alt="" coords="1067,342,1213,365"/>
-<area shape="rect" id="node32" title=" " alt="" coords="1237,342,1361,365"/>
-<area shape="rect" id="node33" title=" " alt="" coords="1385,342,1527,365"/>
-<area shape="rect" id="node34" title=" " alt="" coords="1552,342,1685,365"/>
-<area shape="rect" id="node35" title=" " alt="" coords="1709,336,1819,371"/>
-<area shape="rect" id="node36" title=" " alt="" coords="1843,336,1952,371"/>
-<area shape="rect" id="node37" title=" " alt="" coords="1976,342,2123,365"/>
-<area shape="rect" id="node38" title=" " alt="" coords="5,336,131,371"/>
-<area shape="rect" id="node39" title=" " alt="" coords="155,342,298,365"/>
-<area shape="rect" id="node40" title=" " alt="" coords="323,342,480,365"/>
-<area shape="rect" id="node41" title=" " alt="" coords="505,342,639,365"/>
-<area shape="rect" id="node42" title=" " alt="" coords="663,336,793,371"/>
-<area shape="rect" id="node43" title=" " alt="" coords="817,336,946,371"/>
-<area shape="rect" id="node6" title=" " alt="" coords="2209,560,2263,583"/>
-<area shape="rect" id="node7" title=" " alt="" coords="785,560,823,583"/>
-<area shape="rect" id="node8" title=" " alt="" coords="841,419,916,441"/>
-<area shape="rect" id="node9" title=" " alt="" coords="848,560,915,583"/>
-<area shape="rect" id="node10" href="$a60-io_8h.html" title=" " alt="" coords="1027,419,1090,441"/>
-<area shape="rect" id="node29" title=" " alt="" coords="1115,419,1176,441"/>
-<area shape="rect" id="node30" title=" " alt="" coords="1201,419,1282,441"/>
-<area shape="rect" id="node11" title=" " alt="" coords="1065,489,1127,512"/>
-<area shape="rect" id="node12" title=" " alt="" coords="1151,489,1295,512"/>
-<area shape="rect" id="node13" title=" " alt="" coords="1319,489,1390,512"/>
-<area shape="rect" id="node14" title=" " alt="" coords="991,489,1041,512"/>
-<area shape="rect" id="node15" href="$a60_8h.html" title=" " alt="" coords="1488,489,1539,512"/>
-<area shape="rect" id="node16" title=" " alt="" coords="2059,560,2109,583"/>
-<area shape="rect" id="node17" title=" " alt="" coords="2133,560,2185,583"/>
-<area shape="rect" id="node18" title=" " alt="" coords="939,560,991,583"/>
-<area shape="rect" id="node19" title=" " alt="" coords="1016,560,1120,583"/>
-<area shape="rect" id="node20" title=" " alt="" coords="1144,560,1240,583"/>
-<area shape="rect" id="node21" title=" " alt="" coords="1265,560,1322,583"/>
-<area shape="rect" id="node22" title=" " alt="" coords="1347,560,1411,583"/>
-<area shape="rect" id="node23" title=" " alt="" coords="1435,560,1507,583"/>
-<area shape="rect" id="node24" title=" " alt="" coords="1531,560,1581,583"/>
-<area shape="rect" id="node25" title=" " alt="" coords="1606,560,1666,583"/>
-<area shape="rect" id="node26" title=" " alt="" coords="1690,560,1859,583"/>
-<area shape="rect" id="node27" title=" " alt="" coords="1883,560,1946,583"/>
-<area shape="rect" id="node28" title=" " alt="" coords="1971,560,2035,583"/>
-<area shape="rect" id="node45" title=" " alt="" coords="2457,342,2599,365"/>
-<area shape="rect" id="node46" title=" " alt="" coords="2624,342,2744,365"/>
-<area shape="rect" id="node47" title=" " alt="" coords="2768,342,2925,365"/>
-<area shape="rect" id="node48" title=" " alt="" coords="2950,342,3066,365"/>
-<area shape="rect" id="node49" title=" " alt="" coords="2147,342,2283,365"/>
-<area shape="rect" id="node50" title=" " alt="" coords="2307,342,2432,365"/>
-<area shape="rect" id="node52" href="$a60-collection-base_8h.html" title=" " alt="" coords="3029,259,3157,282"/>
-<area shape="rect" id="node54" href="$a60-collection-duration_8h.html" title=" " alt="" coords="2809,183,2957,205"/>
-<area shape="rect" id="node53" title=" " alt="" coords="3141,342,3187,365"/>
-<area shape="rect" id="node55" title=" " alt="" coords="2803,253,2962,288"/>
+<area shape="rect" id="node1" title=" " alt="" coords="2875,5,3029,52"/>
+<area shape="rect" id="node2" href="$a60-json_8h.html" title=" " alt="" coords="2768,106,2848,129"/>
+<area shape="rect" id="node51" href="$a60-collection-json_8h.html" title=" " alt="" coords="2883,106,3021,129"/>
+<area shape="rect" id="node56" href="$a60-carto-projection-cahill-keyes-functions_8h.html" title=" " alt="" coords="3045,100,3200,135"/>
+<area shape="rect" id="node3" href="$a60-swarm-functions_8h.html" title=" " alt="" coords="2711,183,2859,205"/>
+<area shape="rect" id="node4" href="$a60-peer_8h.html" title=" " alt="" coords="1137,259,1220,282"/>
+<area shape="rect" id="node44" href="$a60-json-fwd_8h.html" title=" " alt="" coords="2713,259,2817,282"/>
+<area shape="rect" id="node5" href="$a60-geo_8h.html" title=" " alt="" coords="999,342,1076,365"/>
+<area shape="rect" id="node31" href="$a60-network-functions_8h.html" title=" " alt="" coords="1101,342,1257,365"/>
+<area shape="rect" id="node32" title=" " alt="" coords="1281,342,1407,365"/>
+<area shape="rect" id="node33" title=" " alt="" coords="1432,342,1579,365"/>
+<area shape="rect" id="node34" title=" " alt="" coords="1603,342,1738,365"/>
+<area shape="rect" id="node35" title=" " alt="" coords="1762,336,1873,371"/>
+<area shape="rect" id="node36" title=" " alt="" coords="1897,336,2007,371"/>
+<area shape="rect" id="node37" title=" " alt="" coords="2032,342,2181,365"/>
+<area shape="rect" id="node38" title=" " alt="" coords="5,336,136,371"/>
+<area shape="rect" id="node39" title=" " alt="" coords="160,342,307,365"/>
+<area shape="rect" id="node40" title=" " alt="" coords="331,342,491,365"/>
+<area shape="rect" id="node41" title=" " alt="" coords="515,342,656,365"/>
+<area shape="rect" id="node42" title=" " alt="" coords="681,336,815,371"/>
+<area shape="rect" id="node43" title=" " alt="" coords="839,336,974,371"/>
+<area shape="rect" id="node6" title=" " alt="" coords="2285,560,2341,583"/>
+<area shape="rect" id="node7" title=" " alt="" coords="813,560,851,583"/>
+<area shape="rect" id="node8" title=" " alt="" coords="869,419,947,441"/>
+<area shape="rect" id="node9" title=" " alt="" coords="876,560,945,583"/>
+<area shape="rect" id="node10" href="$a60-io_8h.html" title=" " alt="" coords="1057,419,1124,441"/>
+<area shape="rect" id="node29" title=" " alt="" coords="1149,419,1211,441"/>
+<area shape="rect" id="node30" title=" " alt="" coords="1236,419,1319,441"/>
+<area shape="rect" id="node11" title=" " alt="" coords="1097,489,1159,512"/>
+<area shape="rect" id="node12" title=" " alt="" coords="1183,489,1337,512"/>
+<area shape="rect" id="node13" title=" " alt="" coords="1361,489,1436,512"/>
+<area shape="rect" id="node14" title=" " alt="" coords="1021,489,1072,512"/>
+<area shape="rect" id="node15" href="$a60_8h.html" title=" " alt="" coords="1533,489,1587,512"/>
+<area shape="rect" id="node16" title=" " alt="" coords="2133,560,2184,583"/>
+<area shape="rect" id="node17" title=" " alt="" coords="2208,560,2261,583"/>
+<area shape="rect" id="node18" title=" " alt="" coords="969,560,1025,583"/>
+<area shape="rect" id="node19" title=" " alt="" coords="1049,560,1156,583"/>
+<area shape="rect" id="node20" title=" " alt="" coords="1181,560,1281,583"/>
+<area shape="rect" id="node21" title=" " alt="" coords="1305,560,1364,583"/>
+<area shape="rect" id="node22" title=" " alt="" coords="1388,560,1455,583"/>
+<area shape="rect" id="node23" title=" " alt="" coords="1479,560,1553,583"/>
+<area shape="rect" id="node24" title=" " alt="" coords="1578,560,1633,583"/>
+<area shape="rect" id="node25" title=" " alt="" coords="1657,560,1722,583"/>
+<area shape="rect" id="node26" title=" " alt="" coords="1746,560,1929,583"/>
+<area shape="rect" id="node27" title=" " alt="" coords="1953,560,2018,583"/>
+<area shape="rect" id="node28" title=" " alt="" coords="2043,560,2109,583"/>
+<area shape="rect" id="node45" title=" " alt="" coords="2528,342,2677,365"/>
+<area shape="rect" id="node46" title=" " alt="" coords="2702,342,2829,365"/>
+<area shape="rect" id="node47" title=" " alt="" coords="2853,342,3019,365"/>
+<area shape="rect" id="node48" title=" " alt="" coords="3043,342,3165,365"/>
+<area shape="rect" id="node49" title=" " alt="" coords="2206,342,2349,365"/>
+<area shape="rect" id="node50" title=" " alt="" coords="2373,342,2504,365"/>
+<area shape="rect" id="node52" href="$a60-collection-base_8h.html" title=" " alt="" coords="3121,259,3263,282"/>
+<area shape="rect" id="node54" href="$a60-collection-duration_8h.html" title=" " alt="" coords="2893,183,3053,205"/>
+<area shape="rect" id="node53" title=" " alt="" coords="3241,342,3287,365"/>
+<area shape="rect" id="node55" title=" " alt="" coords="2890,253,3057,288"/>
 </map>

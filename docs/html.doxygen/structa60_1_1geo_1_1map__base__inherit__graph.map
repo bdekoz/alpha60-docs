@@ -1,5 +1,5 @@
 <map id="a60::geo::map_base" name="a60::geo::map_base">
-<area shape="rect" id="node1" title=" " alt="" coords="77,5,199,28"/>
-<area shape="rect" id="node2" href="$structa60_1_1geo_1_1city__map.html" title="Region mapping." alt="" coords="5,76,121,99"/>
-<area shape="rect" id="node3" href="$structa60_1_1geo_1_1country__map.html" title="Country mapping." alt="" coords="145,76,283,99"/>
+<area shape="rect" id="node1" title=" " alt="" coords="83,5,219,28"/>
+<area shape="rect" id="node2" href="$structa60_1_1geo_1_1city__map.html" title="Region mapping." alt="" coords="5,76,133,99"/>
+<area shape="rect" id="node3" href="$structa60_1_1geo_1_1country__map.html" title="Country mapping." alt="" coords="158,76,309,99"/>
 </map>
