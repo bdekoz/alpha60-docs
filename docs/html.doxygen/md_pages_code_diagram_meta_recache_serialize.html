@@ -90,17 +90,15 @@ $(function() {
     if_state --> serialize_unique_collection: cumulative minimal
 
     serialize_unique_collection_duration --> deserialize_json_to_dom_object
-    serialize_unique_collection_duration --> serialize_collection_base_json
-    serialize_unique_collection_duration --> serialize_collection_metadata_json
-    serialize_unique_collection_duration --> serialize_btiha_summary
+    deserialize_json_to_dom_object --> coalesce_with_unique_btiha
 
-    serialize_unique_collection_duration --> serialize_btiha_duration: week
-    serialize_unique_collection_duration --> serialize_btiha_duration: day
-
-    serialize_unique_collection_duration --> coalesce_with_unique_btiha
-
-    serialize_unique_collection_duration --> serialize_summary_geo_topn
-    serialize_unique_collection_duration --> serialize_btiha_detail
+    coalesce_with_unique_btiha --> serialize_collection_base_json
+    serialize_collection_base_json --> serialize_collection_metadata_json
+    serialize_collection_base_json --> serialize_btiha_summary
+    serialize_collection_base_json --> serialize_btiha_duration: week
+    serialize_collection_base_json --> serialize_btiha_duration: day
+    serialize_collection_base_json --> serialize_summary_geo_topn
+    serialize_collection_base_json --> serialize_btiha_detail
   
   </div>  </p>
 </div></div><!-- contents -->
