@@ -10,7 +10,7 @@ stateDiagram-v2
     coalesce_torrents_per_hour --> coalesce_each_hour
     coalesce_each_hour --> cll.rescue_meta_peers
     cll.rescue_meta_peers --> reserialize_sample_json	
-    cll.resuce_meta_peers --> persistent_collection_per : persistp
+    cll.rescue_meta_peers --> persistent_collection_per : persistp
 
 
     if_state --> coalesce_torrents_per_day : day
