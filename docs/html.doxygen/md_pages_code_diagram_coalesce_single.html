@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.5"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>alpha60: Related Pages</title>
+<title>alpha60: coalesce_single</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -50,7 +50,6 @@ $(function() {
 /* @license-end */
 </script>
 <div id="main-nav"></div>
-</div><!-- top -->
 <!-- window showing the filter options -->
 <div id="MSearchSelectWindow"
      onmouseover="return searchBox.OnSearchSelectShow()"
@@ -72,18 +71,34 @@ $(function() {
 </div>
 </div>
 
-<div class="header">
-  <div class="headertitle"><div class="title">Related Pages</div></div>
+</div><!-- top -->
+<div><div class="header">
+  <div class="headertitle"><div class="title">coalesce_single </div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock">Here is a list of all related documentation pages:</div><div class="directory">
-<table class="directory">
-<tr id="row_0_" class="even"><td class="entry"><span style="width:16px;display:inline-block;">&#160;</span><a class="el" href="md_pages_code_diagram_coalesce_single.html" target="_self">coalesce_single</a></td><td class="desc"></td></tr>
-<tr id="row_1_" class="odd"><td class="entry"><span style="width:16px;display:inline-block;">&#160;</span><a class="el" href="md_pages_code_diagram_meta_recache_serialize.html" target="_self">meta_recache_serialize</a></td><td class="desc"></td></tr>
-<tr id="row_2_" class="even"><td class="entry"><span style="width:16px;display:inline-block;">&#160;</span><a class="el" href="md_pages_code_diagram_meta_render.html" target="_self">meta_render</a></td><td class="desc"></td></tr>
-</table>
-</div><!-- directory -->
-</div><!-- contents -->
+<div class="textblock"><p ><a href="https://bdekoz.github.io/alpha60-docs/html.doxygen/a60-cache-recache-synthesize-uniques_8cc.html">a60-cache-recache-synthesize-uniques.cc</a></p>
+<p > <div class="mermaid"> 
+   stateDiagram-v2
+    [*] --> coalesce_single
+    coalesce_single --> cll.initialize_ids_members
+    coalesce_single --> cache_collection
+
+    state if_state<<choice>>
+    cache_collection --> if_state
+    if_state --> coalesce_torrents_per_hour : hour
+    coalesce_torrents_per_hour --> coalesce_each_hour
+    if_state --> persistent_collection_per : hour, persistp
+
+    if_state --> coalesce_torrents_per_day : day
+    if_state --> persistent_collection_per : day, persistp
+
+    if_state --> coalesce_torrents_per_week : week
+    if_state --> persistent_collection_per : week, persistp
+
+    if_state --> coalesce_torrents_cumulative : cumulative  
+  </div>  </p>
+</div></div><!-- contents -->
+</div><!-- PageDoc -->
 <!-- HTML footer for doxygen 1.9.5-->
 <!-- start footer part -->
 <hr class="footer"/><address class="footer"><small>
