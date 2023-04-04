@@ -1,7 +1,7 @@
 stateDiagram-v2
     [*] --> coalesce_single
     coalesce_single --> cll.initialize_ids_members
-    coalesce_single --> cache_collection
+    cll.initialize_ids_members --> cache_collection
 
     state if_state<<choice>>
     cache_collection --> if_state
