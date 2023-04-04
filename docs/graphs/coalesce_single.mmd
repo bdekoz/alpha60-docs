@@ -5,14 +5,15 @@ stateDiagram-v2
 
     state if_state<<choice>>
     cache_collection --> if_state
+
     if_state --> coalesce_torrents_per_hour : hour
     coalesce_torrents_per_hour --> coalesce_each_hour
-    if_state --> persistent_collection_per : hour, persistp
+    coalesce_each_hour --> persistent_collection_per : persistp
 
     if_state --> coalesce_torrents_per_day : day
-    if_state --> persistent_collection_per : day, persistp
+    coalesce_torrents_per_day --> persistent_collection_per : persistp
 
     if_state --> coalesce_torrents_per_week : week
-    if_state --> persistent_collection_per : week, persistp
+    coalesce_torrents_per_week --> persistent_collection_per : persistp
 
     if_state --> coalesce_torrents_cumulative : cumulative
