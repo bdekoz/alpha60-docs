@@ -81,27 +81,30 @@ $(function() {
    stateDiagram-v2
     [*] --> coalesce_single
     coalesce_single --> cll.initialize_ids_members
-    coalesce_single --> cache_collection
+    cll.initialize_ids_members --> cache_collection
 
     state if_state<<choice>>
     cache_collection --> if_state
 
     if_state --> coalesce_torrents_per_hour : hour
     coalesce_torrents_per_hour --> coalesce_each_hour
-    coalesce_each_hour --> persistent_collection_per : persistp
     coalesce_each_hour --> cll.rescue_meta_peers
-    cll.rescue_meta_peers --> reserialize_sample_json	
+    cll.rescue_meta_peers --> reserialize_sample_json
+    cll.rescue_meta_peers --> persistent_collection_per : persistp
+    persistent_collection_per  --> persistent_each
+    persistent_each  --> reserialize_persistent_json
 
     if_state --> coalesce_torrents_per_day : day
     coalesce_torrents_per_day --> persistent_collection_per : persistp
     coalesce_torrents_per_day --> reserialize_sample_json
-    
+
     if_state --> coalesce_torrents_per_week : week
     coalesce_torrents_per_week --> persistent_collection_per : persistp
     coalesce_torrents_per_week --> reserialize_sample_json
 
     if_state --> coalesce_torrents_cumulative : cumulative
-    coalesce_torrents_cumulative --> reserialize_sample_json  
+    coalesce_torrents_cumulative --> reserialize_sample_json
+  
   </div>  </p>
 </div></div><!-- contents -->
 </div><!-- PageDoc -->
