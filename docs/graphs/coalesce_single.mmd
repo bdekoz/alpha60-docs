@@ -9,14 +9,15 @@ stateDiagram-v2
     if_state --> coalesce_torrents_per_hour : hour
     coalesce_torrents_per_hour --> coalesce_each_hour
     coalesce_each_hour --> cll.rescue_meta_peers
-    cll.rescue_meta_peers --> reserialize_sample_json	
+    cll.rescue_meta_peers --> reserialize_sample_json
     cll.rescue_meta_peers --> persistent_collection_per : persistp
-
+    persistent_collection_per  --> persistent_each
+    persistent_each  --> reserialize_persistent_json
 
     if_state --> coalesce_torrents_per_day : day
     coalesce_torrents_per_day --> persistent_collection_per : persistp
     coalesce_torrents_per_day --> reserialize_sample_json
-    
+
     if_state --> coalesce_torrents_per_week : week
     coalesce_torrents_per_week --> persistent_collection_per : persistp
     coalesce_torrents_per_week --> reserialize_sample_json
